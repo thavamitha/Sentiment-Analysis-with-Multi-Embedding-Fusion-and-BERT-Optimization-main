@@ -1,0 +1,989 @@
+review,sentiment,tokenized_review,lemmatized_review
+wow loved place,positive,"['wow', 'loved', 'place']",wow loved place
+crust not good,negative,"['crust', 'not', 'good']",crust not good
+not tasty texture nasty,negative,"['not', 'tasty', 'texture', 'nasty']",not tasty texture nasty
+stopped late may bank holiday rick steve recommendation loved,positive,"['stopped', 'late', 'may', 'bank', 'holiday', 'rick', 'steve', 'recommendation', 'loved']",stopped late may bank holiday rick steve recommendation loved
+selection menu great prices,positive,"['selection', 'menu', 'great', 'prices']",selection menu great price
+getting angry want damn pho,negative,"['getting', 'angry', 'want', 'damn', 'pho']",getting angry want damn pho
+honeslty not taste fresh,negative,"['honeslty', 'not', 'taste', 'fresh']",honeslty not taste fresh
+potatoes like rubber could tell made ahead time kept warmer,negative,"['potatoes', 'like', 'rubber', 'could', 'tell', 'made', 'ahead', 'time', 'kept', 'warmer']",potato like rubber could tell made ahead time kept warmer
+fries great,positive,"['fries', 'great']",fry great
+great touch,positive,"['great', 'touch']",great touch
+service prompt,positive,"['service', 'prompt']",service prompt
+would not go back,negative,"['would', 'not', 'go', 'back']",would not go back
+cashier no care ever say still ended wayyy overpriced,negative,"['cashier', 'no', 'care', 'ever', 'say', 'still', 'ended', 'wayyy', 'overpriced']",cashier no care ever say still ended wayyy overpriced
+tried cape cod ravoli chicken cranberrymmmm,positive,"['tried', 'cape', 'cod', 'ravoli', 'chicken', 'cranberrymmmm']",tried cape cod ravoli chicken cranberrymmmm
+disgusted pretty sure human hair,negative,"['disgusted', 'pretty', 'sure', 'human', 'hair']",disgusted pretty sure human hair
+shocked no signs indicate cash,negative,"['shocked', 'no', 'signs', 'indicate', 'cash']",shocked no sign indicate cash
+highly recommended,positive,"['highly', 'recommended']",highly recommended
+waitress little slow service,negative,"['waitress', 'little', 'slow', 'service']",waitress little slow service
+place not worth time let alone vegas,negative,"['place', 'not', 'worth', 'time', 'let', 'alone', 'vegas']",place not worth time let alone vega
+not like,negative,"['not', 'like']",not like
+burrittos blah,negative,"['burrittos', 'blah']",burrittos blah
+food amazing,positive,"['food', 'amazing']",food amazing
+service also cute,positive,"['service', 'also', 'cute']",service also cute
+could care less interior beautiful,positive,"['could', 'care', 'less', 'interior', 'beautiful']",could care less interior beautiful
+performed,positive,['performed'],performed
+rightthe red velvet cakeohhh stuff good,positive,"['rightthe', 'red', 'velvet', 'cakeohhh', 'stuff', 'good']",rightthe red velvet cakeohhh stuff good
+never brought salad asked,negative,"['never', 'brought', 'salad', 'asked']",never brought salad asked
+hole wall great mexican street tacos friendly staff,positive,"['hole', 'wall', 'great', 'mexican', 'street', 'tacos', 'friendly', 'staff']",hole wall great mexican street taco friendly staff
+took hour get food 4 tables restaurant food luke warm sever running around like totally overwhelmed,negative,"['took', 'hour', 'get', 'food', '4', 'tables', 'restaurant', 'food', 'luke', 'warm', 'sever', 'running', 'around', 'like', 'totally', 'overwhelmed']",took hour get food 4 table restaurant food luke warm sever running around like totally overwhelmed
+worst salmon sashimi,negative,"['worst', 'salmon', 'sashimi']",worst salmon sashimi
+also combos like burger fries beer 23 decent deal,positive,"['also', 'combos', 'like', 'burger', 'fries', 'beer', '23', 'decent', 'deal']",also combo like burger fry beer 23 decent deal
+like final blow,negative,"['like', 'final', 'blow']",like final blow
+found place accident could not happier,positive,"['found', 'place', 'accident', 'could', 'not', 'happier']",found place accident could not happier
+seems like good quick place grab bite familiar pub food favor look elsewhere,negative,"['seems', 'like', 'good', 'quick', 'place', 'grab', 'bite', 'familiar', 'pub', 'food', 'favor', 'look', 'elsewhere']",seems like good quick place grab bite familiar pub food favor look elsewhere
+overall like place lot,positive,"['overall', 'like', 'place', 'lot']",overall like place lot
+redeeming quality restaurant inexpensive,positive,"['redeeming', 'quality', 'restaurant', 'inexpensive']",redeeming quality restaurant inexpensive
+ample portions good prices,positive,"['ample', 'portions', 'good', 'prices']",ample portion good price
+poor service waiter made feel like stupid every time came table,negative,"['poor', 'service', 'waiter', 'made', 'feel', 'like', 'stupid', 'every', 'time', 'came', 'table']",poor service waiter made feel like stupid every time came table
+first visit hiro delight,positive,"['first', 'visit', 'hiro', 'delight']",first visit hiro delight
+service sucks,negative,"['service', 'sucks']",service suck
+shrimp tender moist,positive,"['shrimp', 'tender', 'moist']",shrimp tender moist
+not deal good enough would drag establishment,negative,"['not', 'deal', 'good', 'enough', 'would', 'drag', 'establishment']",not deal good enough would drag establishment
+hard judge whether sides good grossed melted styrofoam not want eat fear getting sick,negative,"['hard', 'judge', 'whether', 'sides', 'good', 'grossed', 'melted', 'styrofoam', 'not', 'want', 'eat', 'fear', 'getting', 'sick']",hard judge whether side good grossed melted styrofoam not want eat fear getting sick
+positive note server attentive provided great service,positive,"['positive', 'note', 'server', 'attentive', 'provided', 'great', 'service']",positive note server attentive provided great service
+frozen pucks disgust worst people behind register,negative,"['frozen', 'pucks', 'disgust', 'worst', 'people', 'behind', 'register']",frozen puck disgust worst people behind register
+thing like prime rib dessert section,positive,"['thing', 'like', 'prime', 'rib', 'dessert', 'section']",thing like prime rib dessert section
+bad food damn generic,negative,"['bad', 'food', 'damn', 'generic']",bad food damn generic
+burger good beef cooked right,positive,"['burger', 'good', 'beef', 'cooked', 'right']",burger good beef cooked right
+want sandwich go firehouse,positive,"['want', 'sandwich', 'go', 'firehouse']",want sandwich go firehouse
+side greek salad greek dressing tasty pita hummus refreshing,positive,"['side', 'greek', 'salad', 'greek', 'dressing', 'tasty', 'pita', 'hummus', 'refreshing']",side greek salad greek dressing tasty pita hummus refreshing
+ordered duck rare pink tender inside nice char outside,positive,"['ordered', 'duck', 'rare', 'pink', 'tender', 'inside', 'nice', 'char', 'outside']",ordered duck rare pink tender inside nice char outside
+came running us realized husband left sunglasses table,positive,"['came', 'running', 'us', 'realized', 'husband', 'left', 'sunglasses', 'table']",came running u realized husband left sunglass table
+chow mein good,positive,"['chow', 'mein', 'good']",chow mein good
+horrible attitudes towards customers talk one customers not enjoy food,negative,"['horrible', 'attitudes', 'towards', 'customers', 'talk', 'one', 'customers', 'not', 'enjoy', 'food']",horrible attitude towards customer talk one customer not enjoy food
+portion huge,positive,"['portion', 'huge']",portion huge
+loved itfriendly servers great food wonderful imaginative menu,positive,"['loved', 'itfriendly', 'servers', 'great', 'food', 'wonderful', 'imaginative', 'menu']",loved itfriendly server great food wonderful imaginative menu
+heart attack grill downtown vegas absolutely flatlined excuse restaurant,negative,"['heart', 'attack', 'grill', 'downtown', 'vegas', 'absolutely', 'flatlined', 'excuse', 'restaurant']",heart attack grill downtown vega absolutely flatlined excuse restaurant
+not much seafood like 5 strings pasta bottom,negative,"['not', 'much', 'seafood', 'like', '5', 'strings', 'pasta', 'bottom']",not much seafood like 5 string pasta bottom
+salad right amount sauce not power scallop perfectly cooked,positive,"['salad', 'right', 'amount', 'sauce', 'not', 'power', 'scallop', 'perfectly', 'cooked']",salad right amount sauce not power scallop perfectly cooked
+ripped banana not ripped petrified tasteless,negative,"['ripped', 'banana', 'not', 'ripped', 'petrified', 'tasteless']",ripped banana not ripped petrified tasteless
+least think refill water struggle wave 10 minutes,negative,"['least', 'think', 'refill', 'water', 'struggle', 'wave', '10', 'minutes']",least think refill water struggle wave 10 minute
+place receives stars appetizers,positive,"['place', 'receives', 'stars', 'appetizers']",place receives star appetizer
+cocktails handmade delicious,positive,"['cocktails', 'handmade', 'delicious']",cocktail handmade delicious
+wed definitely go back,positive,"['wed', 'definitely', 'go', 'back']",wed definitely go back
+glad found place,positive,"['glad', 'found', 'place']",glad found place
+great food service huge portions give military discount,positive,"['great', 'food', 'service', 'huge', 'portions', 'give', 'military', 'discount']",great food service huge portion give military discount
+always great time dos gringos,positive,"['always', 'great', 'time', 'dos', 'gringos']",always great time do gringo
+updatewent back second time still amazing,positive,"['updatewent', 'back', 'second', 'time', 'still', 'amazing']",updatewent back second time still amazing
+got food apparently never heard salt batter fish chewy,negative,"['got', 'food', 'apparently', 'never', 'heard', 'salt', 'batter', 'fish', 'chewy']",got food apparently never heard salt batter fish chewy
+great way finish great,positive,"['great', 'way', 'finish', 'great']",great way finish great
+deal included 5 tastings 2 drinks jeff went beyond expected,positive,"['deal', 'included', '5', 'tastings', '2', 'drinks', 'jeff', 'went', 'beyond', 'expected']",deal included 5 tasting 2 drink jeff went beyond expected
+really really good rice time,positive,"['really', 'really', 'good', 'rice', 'time']",really really good rice time
+service meh,negative,"['service', 'meh']",service meh
+took 30 min get milkshake nothing chocolate milk,negative,"['took', '30', 'min', 'get', 'milkshake', 'nothing', 'chocolate', 'milk']",took 30 min get milkshake nothing chocolate milk
+guess known place would suck inside excalibur not use common sense,negative,"['guess', 'known', 'place', 'would', 'suck', 'inside', 'excalibur', 'not', 'use', 'common', 'sense']",guess known place would suck inside excalibur not use common sense
+scallop dish quite appalling value well,negative,"['scallop', 'dish', 'quite', 'appalling', 'value', 'well']",scallop dish quite appalling value well
+2 times bad customer service,negative,"['2', 'times', 'bad', 'customer', 'service']",2 time bad customer service
+sweet potato fries good seasoned well,positive,"['sweet', 'potato', 'fries', 'good', 'seasoned', 'well']",sweet potato fry good seasoned well
+today second time lunch buffet pretty good,positive,"['today', 'second', 'time', 'lunch', 'buffet', 'pretty', 'good']",today second time lunch buffet pretty good
+much good food vegas feel cheated wasting eating opportunity going rice company,negative,"['much', 'good', 'food', 'vegas', 'feel', 'cheated', 'wasting', 'eating', 'opportunity', 'going', 'rice', 'company']",much good food vega feel cheated wasting eating opportunity going rice company
+coming like experiencing underwhelming relationship parties cannot wait person ask break,negative,"['coming', 'like', 'experiencing', 'underwhelming', 'relationship', 'parties', 'can', 'not', 'wait', 'person', 'ask', 'break']",coming like experiencing underwhelming relationship party can not wait person ask break
+walked place smelled like old grease trap 2 others eating,negative,"['walked', 'place', 'smelled', 'like', 'old', 'grease', 'trap', '2', 'others', 'eating']",walked place smelled like old grease trap 2 others eating
+turkey roast beef bland,negative,"['turkey', 'roast', 'beef', 'bland']",turkey roast beef bland
+place,positive,['place'],place
+pan cakes everyone raving taste like sugary disaster tailored palate six year old,negative,"['pan', 'cakes', 'everyone', 'raving', 'taste', 'like', 'sugary', 'disaster', 'tailored', 'palate', 'six', 'year', 'old']",pan cake everyone raving taste like sugary disaster tailored palate six year old
+love pho spring rolls oh yummy try,positive,"['love', 'pho', 'spring', 'rolls', 'oh', 'yummy', 'try']",love pho spring roll oh yummy try
+poor batter meat ratio made chicken tenders unsatisfying,negative,"['poor', 'batter', 'meat', 'ratio', 'made', 'chicken', 'tenders', 'unsatisfying']",poor batter meat ratio made chicken tender unsatisfying
+say food amazing,positive,"['say', 'food', 'amazing']",say food amazing
+omelets die,positive,"['omelets', 'die']",omelet die
+everything fresh delicious,positive,"['everything', 'fresh', 'delicious']",everything fresh delicious
+summary largely disappointing dining experience,negative,"['summary', 'largely', 'disappointing', 'dining', 'experience']",summary largely disappointing dining experience
+like really sexy party mouth outrageously flirting hottest person party,positive,"['like', 'really', 'sexy', 'party', 'mouth', 'outrageously', 'flirting', 'hottest', 'person', 'party']",like really sexy party mouth outrageously flirting hottest person party
+never hard rock casino never ever step forward,negative,"['never', 'hard', 'rock', 'casino', 'never', 'ever', 'step', 'forward']",never hard rock casino never ever step forward
+best breakfast buffet,positive,"['best', 'breakfast', 'buffet']",best breakfast buffet
+say bye bye tip lady,negative,"['say', 'bye', 'bye', 'tip', 'lady']",say bye bye tip lady
+well never go,negative,"['well', 'never', 'go']",well never go
+back,positive,['back'],back
+food arrived quickly,positive,"['food', 'arrived', 'quickly']",food arrived quickly
+not good,negative,"['not', 'good']",not good
+side cafe serves really good food,positive,"['side', 'cafe', 'serves', 'really', 'good', 'food']",side cafe serf really good food
+server fantastic found wife loves roasted garlic bone marrow added extra meal another marrow go,positive,"['server', 'fantastic', 'found', 'wife', 'loves', 'roasted', 'garlic', 'bone', 'marrow', 'added', 'extra', 'meal', 'another', 'marrow', 'go']",server fantastic found wife love roasted garlic bone marrow added extra meal another marrow go
+good thing waiter helpful kept bloddy marys coming,positive,"['good', 'thing', 'waiter', 'helpful', 'kept', 'bloddy', 'marys', 'coming']",good thing waiter helpful kept bloddy mary coming
+best buffet town price cannot beat,positive,"['best', 'buffet', 'town', 'price', 'can', 'not', 'beat']",best buffet town price can not beat
+loved mussels cooked wine reduction duck tender potato dishes delicious,positive,"['loved', 'mussels', 'cooked', 'wine', 'reduction', 'duck', 'tender', 'potato', 'dishes', 'delicious']",loved mussel cooked wine reduction duck tender potato dish delicious
+one better buffets,positive,"['one', 'better', 'buffets']",one better buffet
+went tigerlilly fantastic afternoon,positive,"['went', 'tigerlilly', 'fantastic', 'afternoon']",went tigerlilly fantastic afternoon
+food delicious bartender attentive personable got great deal,positive,"['food', 'delicious', 'bartender', 'attentive', 'personable', 'got', 'great', 'deal']",food delicious bartender attentive personable got great deal
+ambience wonderful music playing,positive,"['ambience', 'wonderful', 'music', 'playing']",ambience wonderful music playing
+go back next trip,positive,"['go', 'back', 'next', 'trip']",go back next trip
+sooooo good,positive,"['sooooo', 'good']",sooooo good
+real sushi lovers let us honest yama not good,negative,"['real', 'sushi', 'lovers', 'let', 'us', 'honest', 'yama', 'not', 'good']",real sushi lover let u honest yama not good
+least 40min passed us ordering food arriving not busy,negative,"['least', '40min', 'passed', 'us', 'ordering', 'food', 'arriving', 'not', 'busy']",least 40min passed u ordering food arriving not busy
+really fantastic thai restaurant definitely worth visit,positive,"['really', 'fantastic', 'thai', 'restaurant', 'definitely', 'worth', 'visit']",really fantastic thai restaurant definitely worth visit
+nice spicy tender,positive,"['nice', 'spicy', 'tender']",nice spicy tender
+good prices,positive,"['good', 'prices']",good price
+check,positive,['check'],check
+pretty gross,negative,"['pretty', 'gross']",pretty gross
+better atmosphere,negative,"['better', 'atmosphere']",better atmosphere
+kind hard mess steak,negative,"['kind', 'hard', 'mess', 'steak']",kind hard mess steak
+although much liked look sound place actual experience bit disappointing,negative,"['although', 'much', 'liked', 'look', 'sound', 'place', 'actual', 'experience', 'bit', 'disappointing']",although much liked look sound place actual experience bit disappointing
+not know place managed served blandest food ever eaten preparing indian cuisine,negative,"['not', 'know', 'place', 'managed', 'served', 'blandest', 'food', 'ever', 'eaten', 'preparing', 'indian', 'cuisine']",not know place managed served blandest food ever eaten preparing indian cuisine
+worst service boot least worries,negative,"['worst', 'service', 'boot', 'least', 'worries']",worst service boot least worry
+service fine waitress friendly,positive,"['service', 'fine', 'waitress', 'friendly']",service fine waitress friendly
+guys steaks steak loving son steak best worst places said best steak hes ever eaten,positive,"['guys', 'steaks', 'steak', 'loving', 'son', 'steak', 'best', 'worst', 'places', 'said', 'best', 'steak', 'hes', 'ever', 'eaten']",guy steak steak loving son steak best worst place said best steak he ever eaten
+thought would venture away get good sushi place really hit spot night,positive,"['thought', 'would', 'venture', 'away', 'get', 'good', 'sushi', 'place', 'really', 'hit', 'spot', 'night']",thought would venture away get good sushi place really hit spot night
+host staff lack better word bitches,negative,"['host', 'staff', 'lack', 'better', 'word', 'bitches']",host staff lack better word bitch
+bland not liking place number reasons not want waste time bad reviewing ill leave,negative,"['bland', 'not', 'liking', 'place', 'number', 'reasons', 'not', 'want', 'waste', 'time', 'bad', 'reviewing', 'ill', 'leave']",bland not liking place number reason not want waste time bad reviewing ill leave
+phenomenal food service ambiance,positive,"['phenomenal', 'food', 'service', 'ambiance']",phenomenal food service ambiance
+would not return,negative,"['would', 'not', 'return']",would not return
+definitely worth venturing strip pork belly return next time vegas,positive,"['definitely', 'worth', 'venturing', 'strip', 'pork', 'belly', 'return', 'next', 'time', 'vegas']",definitely worth venturing strip pork belly return next time vega
+place way overpriced mediocre food,negative,"['place', 'way', 'overpriced', 'mediocre', 'food']",place way overpriced mediocre food
+penne vodka excellent,positive,"['penne', 'vodka', 'excellent']",penne vodka excellent
+good selection food including massive meatloaf sandwich crispy chicken wrap delish tuna melt tasty burgers,positive,"['good', 'selection', 'food', 'including', 'massive', 'meatloaf', 'sandwich', 'crispy', 'chicken', 'wrap', 'delish', 'tuna', 'melt', 'tasty', 'burgers']",good selection food including massive meatloaf sandwich crispy chicken wrap delish tuna melt tasty burger
+management rude,negative,"['management', 'rude']",management rude
+delicious nyc bagels good selections cream cheese real lox capers even,positive,"['delicious', 'nyc', 'bagels', 'good', 'selections', 'cream', 'cheese', 'real', 'lox', 'capers', 'even']",delicious nyc bagel good selection cream cheese real lox caper even
+great subway fact good come every subway not meet expectations,positive,"['great', 'subway', 'fact', 'good', 'come', 'every', 'subway', 'not', 'meet', 'expectations']",great subway fact good come every subway not meet expectation
+seriously solid breakfast,positive,"['seriously', 'solid', 'breakfast']",seriously solid breakfast
+one best bars food vegas,positive,"['one', 'best', 'bars', 'food', 'vegas']",one best bar food vega
+extremely rude really many restaurants would love dine weekend vegas,negative,"['extremely', 'rude', 'really', 'many', 'restaurants', 'would', 'love', 'dine', 'weekend', 'vegas']",extremely rude really many restaurant would love dine weekend vega
+drink never empty made really great menu suggestions,positive,"['drink', 'never', 'empty', 'made', 'really', 'great', 'menu', 'suggestions']",drink never empty made really great menu suggestion
+not,negative,['not'],not
+waiter not helpful friendly rarely checked us,negative,"['waiter', 'not', 'helpful', 'friendly', 'rarely', 'checked', 'us']",waiter not helpful friendly rarely checked u
+husband ate lunch disappointed food service,negative,"['husband', 'ate', 'lunch', 'disappointed', 'food', 'service']",husband ate lunch disappointed food service
+red curry much bamboo shoots not tasty,negative,"['red', 'curry', 'much', 'bamboo', 'shoots', 'not', 'tasty']",red curry much bamboo shoot not tasty
+nice blanket moz top feel like done cover subpar food,positive,"['nice', 'blanket', 'moz', 'top', 'feel', 'like', 'done', 'cover', 'subpar', 'food']",nice blanket moz top feel like done cover subpar food
+bathrooms clean place well decorated,positive,"['bathrooms', 'clean', 'place', 'well', 'decorated']",bathroom clean place well decorated
+menu always changing food quality going service extremely slow,negative,"['menu', 'always', 'changing', 'food', 'quality', 'going', 'service', 'extremely', 'slow']",menu always changing food quality going service extremely slow
+service little slow considering served 3 people servers food coming slow pace,negative,"['service', 'little', 'slow', 'considering', 'served', '3', 'people', 'servers', 'food', 'coming', 'slow', 'pace']",service little slow considering served 3 people server food coming slow pace
+give 2 thumbs,negative,"['give', '2', 'thumbs']",give 2 thumb
+watched waiter pay lot attention tables ignore us,negative,"['watched', 'waiter', 'pay', 'lot', 'attention', 'tables', 'ignore', 'us']",watched waiter pay lot attention table ignore u
+fiancé came middle day greeted seated right away,positive,"['fiancé', 'came', 'middle', 'day', 'greeted', 'seated', 'right', 'away']",fiancé came middle day greeted seated right away
+great restaurant mandalay bay,positive,"['great', 'restaurant', 'mandalay', 'bay']",great restaurant mandalay bay
+waited forty five minutes vain,negative,"['waited', 'forty', 'five', 'minutes', 'vain']",waited forty five minute vain
+crostini came salad stale,negative,"['crostini', 'came', 'salad', 'stale']",crostini came salad stale
+highlights great quality nigiri,positive,"['highlights', 'great', 'quality', 'nigiri']",highlight great quality nigiri
+staff friendly joint always clean,positive,"['staff', 'friendly', 'joint', 'always', 'clean']",staff friendly joint always clean
+different cut piece day still wonderful tender well well flavored,positive,"['different', 'cut', 'piece', 'day', 'still', 'wonderful', 'tender', 'well', 'well', 'flavored']",different cut piece day still wonderful tender well well flavored
+ordered voodoo pasta first time id really excellent pasta since going gluten free several years ago,positive,"['ordered', 'voodoo', 'pasta', 'first', 'time', 'id', 'really', 'excellent', 'pasta', 'since', 'going', 'gluten', 'free', 'several', 'years', 'ago']",ordered voodoo pasta first time id really excellent pasta since going gluten free several year ago
+place good,positive,"['place', 'good']",place good
+unfortunately must hit bakery leftover day everything ordered stale,negative,"['unfortunately', 'must', 'hit', 'bakery', 'leftover', 'day', 'everything', 'ordered', 'stale']",unfortunately must hit bakery leftover day everything ordered stale
+came back today since relocated still not impressed,negative,"['came', 'back', 'today', 'since', 'relocated', 'still', 'not', 'impressed']",came back today since relocated still not impressed
+seated immediately,positive,"['seated', 'immediately']",seated immediately
+menu diverse reasonably priced,positive,"['menu', 'diverse', 'reasonably', 'priced']",menu diverse reasonably priced
+avoid cost,negative,"['avoid', 'cost']",avoid cost
+restaurant always full never wait,positive,"['restaurant', 'always', 'full', 'never', 'wait']",restaurant always full never wait
+delicious,positive,['delicious'],delicious
+place handsdown one best places eat phoenix metro area,positive,"['place', 'handsdown', 'one', 'best', 'places', 'eat', 'phoenix', 'metro', 'area']",place handsdown one best place eat phoenix metro area
+not go looking good food,negative,"['not', 'go', 'looking', 'good', 'food']",not go looking good food
+never treated bad,negative,"['never', 'treated', 'bad']",never treated bad
+bacon hella salty,positive,"['bacon', 'hella', 'salty']",bacon hella salty
+also ordered spinach avocado salad ingredients sad dressing literally zero taste,negative,"['also', 'ordered', 'spinach', 'avocado', 'salad', 'ingredients', 'sad', 'dressing', 'literally', 'zero', 'taste']",also ordered spinach avocado salad ingredient sad dressing literally zero taste
+really vegas fine dining used right menus handed ladies no prices listed,positive,"['really', 'vegas', 'fine', 'dining', 'used', 'right', 'menus', 'handed', 'ladies', 'no', 'prices', 'listed']",really vega fine dining used right menu handed lady no price listed
+waitresses friendly,positive,"['waitresses', 'friendly']",waitress friendly
+lordy khao soi dish not missed curry lovers,positive,"['lordy', 'khao', 'soi', 'dish', 'not', 'missed', 'curry', 'lovers']",lordy khao soi dish not missed curry lover
+everything menu terrific also thrilled made amazing accommodations vegetarian daughter,positive,"['everything', 'menu', 'terrific', 'also', 'thrilled', 'made', 'amazing', 'accommodations', 'vegetarian', 'daughter']",everything menu terrific also thrilled made amazing accommodation vegetarian daughter
+perhaps caught night judging reviews not inspired go back,negative,"['perhaps', 'caught', 'night', 'judging', 'reviews', 'not', 'inspired', 'go', 'back']",perhaps caught night judging review not inspired go back
+service leaves lot desired,negative,"['service', 'leaves', 'lot', 'desired']",service leaf lot desired
+atmosphere modern hip maintaining touch coziness,positive,"['atmosphere', 'modern', 'hip', 'maintaining', 'touch', 'coziness']",atmosphere modern hip maintaining touch coziness
+not weekly haunt definitely place come back every,positive,"['not', 'weekly', 'haunt', 'definitely', 'place', 'come', 'back', 'every']",not weekly haunt definitely place come back every
+literally sat 20 minutes no one asking take order,negative,"['literally', 'sat', '20', 'minutes', 'no', 'one', 'asking', 'take', 'order']",literally sat 20 minute no one asking take order
+burger absolutely no flavor meat totally bland burger overcooked no charcoal flavor,negative,"['burger', 'absolutely', 'no', 'flavor', 'meat', 'totally', 'bland', 'burger', 'overcooked', 'no', 'charcoal', 'flavor']",burger absolutely no flavor meat totally bland burger overcooked no charcoal flavor
+also decided not send back waitress looked like verge heart attack,negative,"['also', 'decided', 'not', 'send', 'back', 'waitress', 'looked', 'like', 'verge', 'heart', 'attack']",also decided not send back waitress looked like verge heart attack
+dressed treated rudely,negative,"['dressed', 'treated', 'rudely']",dressed treated rudely
+probably dirt,negative,"['probably', 'dirt']",probably dirt
+love place hits spot want something healthy not lacking quantity flavor,positive,"['love', 'place', 'hits', 'spot', 'want', 'something', 'healthy', 'not', 'lacking', 'quantity', 'flavor']",love place hit spot want something healthy not lacking quantity flavor
+ordered lemon raspberry ice cocktail also incredible,positive,"['ordered', 'lemon', 'raspberry', 'ice', 'cocktail', 'also', 'incredible']",ordered lemon raspberry ice cocktail also incredible
+food sucked expected sucked could imagined,negative,"['food', 'sucked', 'expected', 'sucked', 'could', 'imagined']",food sucked expected sucked could imagined
+interesting decor,positive,"['interesting', 'decor']",interesting decor
+really like crepe station,positive,"['really', 'like', 'crepe', 'station']",really like crepe station
+also served hot bread butter home made potato chips bacon bits topvery original good,positive,"['also', 'served', 'hot', 'bread', 'butter', 'home', 'made', 'potato', 'chips', 'bacon', 'bits', 'topvery', 'original', 'good']",also served hot bread butter home made potato chip bacon bit topvery original good
+watch preparing delicious food,positive,"['watch', 'preparing', 'delicious', 'food']",watch preparing delicious food
+egg rolls fantastic,positive,"['egg', 'rolls', 'fantastic']",egg roll fantastic
+order arrived one gyros missing,negative,"['order', 'arrived', 'one', 'gyros', 'missing']",order arrived one gyro missing
+salad wings ice cream dessert left feeling quite satisfied,positive,"['salad', 'wings', 'ice', 'cream', 'dessert', 'left', 'feeling', 'quite', 'satisfied']",salad wing ice cream dessert left feeling quite satisfied
+not really sure joeys voted best hot dog valley readers phoenix magazine,negative,"['not', 'really', 'sure', 'joeys', 'voted', 'best', 'hot', 'dog', 'valley', 'readers', 'phoenix', 'magazine']",not really sure joeys voted best hot dog valley reader phoenix magazine
+best place go tasty bowl pho,positive,"['best', 'place', 'go', 'tasty', 'bowl', 'pho']",best place go tasty bowl pho
+live music fridays totally blows,negative,"['live', 'music', 'fridays', 'totally', 'blows']",live music friday totally blow
+never insulted felt disrespected,negative,"['never', 'insulted', 'felt', 'disrespected']",never insulted felt disrespected
+friendly staff,positive,"['friendly', 'staff']",friendly staff
+worth drive,positive,"['worth', 'drive']",worth drive
+heard good things place exceeding every hope could dreamed,positive,"['heard', 'good', 'things', 'place', 'exceeding', 'every', 'hope', 'could', 'dreamed']",heard good thing place exceeding every hope could dreamed
+food great serivce,positive,"['food', 'great', 'serivce']",food great serivce
+warm beer not help,negative,"['warm', 'beer', 'not', 'help']",warm beer not help
+great brunch spot,positive,"['great', 'brunch', 'spot']",great brunch spot
+service friendly inviting,positive,"['service', 'friendly', 'inviting']",service friendly inviting
+good lunch spot,positive,"['good', 'lunch', 'spot']",good lunch spot
+lived since 1979 first last time stepped foot place,negative,"['lived', 'since', '1979', 'first', 'last', 'time', 'stepped', 'foot', 'place']",lived since 1979 first last time stepped foot place
+worst experience ever,negative,"['worst', 'experience', 'ever']",worst experience ever
+must night place,negative,"['must', 'night', 'place']",must night place
+sides delish mixed mushrooms yukon gold puree white corn beateous,positive,"['sides', 'delish', 'mixed', 'mushrooms', 'yukon', 'gold', 'puree', 'white', 'corn', 'beateous']",side delish mixed mushroom yukon gold puree white corn beateous
+bug never showed would given 4 sure side wall bug climbing kitchen,negative,"['bug', 'never', 'showed', 'would', 'given', '4', 'sure', 'side', 'wall', 'bug', 'climbing', 'kitchen']",bug never showed would given 4 sure side wall bug climbing kitchen
+10 minutes waiting salad realized not coming time soon,negative,"['10', 'minutes', 'waiting', 'salad', 'realized', 'not', 'coming', 'time', 'soon']",10 minute waiting salad realized not coming time soon
+friend loved salmon tartar,positive,"['friend', 'loved', 'salmon', 'tartar']",friend loved salmon tartar
+not go back,negative,"['not', 'go', 'back']",not go back
+extremely tasty,positive,"['extremely', 'tasty']",extremely tasty
+waitress good though,positive,"['waitress', 'good', 'though']",waitress good though
+soggy not good,negative,"['soggy', 'not', 'good']",soggy not good
+jamaican mojitos delicious,positive,"['jamaican', 'mojitos', 'delicious']",jamaican mojitos delicious
+small not worth price,negative,"['small', 'not', 'worth', 'price']",small not worth price
+food rich order accordingly,positive,"['food', 'rich', 'order', 'accordingly']",food rich order accordingly
+shower area outside rinse not take full shower unless not mind nude everyone see,negative,"['shower', 'area', 'outside', 'rinse', 'not', 'take', 'full', 'shower', 'unless', 'not', 'mind', 'nude', 'everyone', 'see']",shower area outside rinse not take full shower unless not mind nude everyone see
+service bit lacking,negative,"['service', 'bit', 'lacking']",service bit lacking
+lobster bisque bussell sprouts risotto filet needed salt pepperand course none tables,negative,"['lobster', 'bisque', 'bussell', 'sprouts', 'risotto', 'filet', 'needed', 'salt', 'pepperand', 'course', 'none', 'tables']",lobster bisque bussell sprout risotto filet needed salt pepperand course none table
+hopefully bodes going business someone cook come,negative,"['hopefully', 'bodes', 'going', 'business', 'someone', 'cook', 'come']",hopefully bodes going business someone cook come
+either cold not enough flavor bad,negative,"['either', 'cold', 'not', 'enough', 'flavor', 'bad']",either cold not enough flavor bad
+loved bacon wrapped dates,positive,"['loved', 'bacon', 'wrapped', 'dates']",loved bacon wrapped date
+unbelievable bargain,positive,"['unbelievable', 'bargain']",unbelievable bargain
+folks otto always make us feel welcome special,positive,"['folks', 'otto', 'always', 'make', 'us', 'feel', 'welcome', 'special']",folk otto always make u feel welcome special
+mains also uninspired,negative,"['mains', 'also', 'uninspired']",main also uninspired
+place first pho amazing,positive,"['place', 'first', 'pho', 'amazing']",place first pho amazing
+wonderful experience made place muststop whenever town,positive,"['wonderful', 'experience', 'made', 'place', 'muststop', 'whenever', 'town']",wonderful experience made place muststop whenever town
+food not bad enough enjoy dealing worlds worstannoying drunk people,negative,"['food', 'not', 'bad', 'enough', 'enjoy', 'dealing', 'worlds', 'worstannoying', 'drunk', 'people']",food not bad enough enjoy dealing world worstannoying drunk people
+fun chef,positive,"['fun', 'chef']",fun chef
+ordered double cheeseburger got single patty falling apart picture uploaded yeah still sucks,negative,"['ordered', 'double', 'cheeseburger', 'got', 'single', 'patty', 'falling', 'apart', 'picture', 'uploaded', 'yeah', 'still', 'sucks']",ordered double cheeseburger got single patty falling apart picture uploaded yeah still suck
+great place couple drinks watch sporting events walls covered tvs,positive,"['great', 'place', 'couple', 'drinks', 'watch', 'sporting', 'events', 'walls', 'covered', 'tvs']",great place couple drink watch sporting event wall covered tv
+possible give zero stars would,negative,"['possible', 'give', 'zero', 'stars', 'would']",possible give zero star would
+descriptions said yum yum sauce another said eel sauce yet another said spicy mayowell none rolls sauces,negative,"['descriptions', 'said', 'yum', 'yum', 'sauce', 'another', 'said', 'eel', 'sauce', 'yet', 'another', 'said', 'spicy', 'mayowell', 'none', 'rolls', 'sauces']",description said yum yum sauce another said eel sauce yet another said spicy mayowell none roll sauce
+id say would hardest decision honestly ms dishes taste supposed taste amazing,positive,"['id', 'say', 'would', 'hardest', 'decision', 'honestly', 'ms', 'dishes', 'taste', 'supposed', 'taste', 'amazing']",id say would hardest decision honestly m dish taste supposed taste amazing
+not rolled eyes may stayed not sure go back try,negative,"['not', 'rolled', 'eyes', 'may', 'stayed', 'not', 'sure', 'go', 'back', 'try']",not rolled eye may stayed not sure go back try
+everyone attentive providing excellent customer service,positive,"['everyone', 'attentive', 'providing', 'excellent', 'customer', 'service']",everyone attentive providing excellent customer service
+horrible not waste time money,negative,"['horrible', 'not', 'waste', 'time', 'money']",horrible not waste time money
+dish quite flavourful,positive,"['dish', 'quite', 'flavourful']",dish quite flavourful
+time side restaurant almost empty no excuse,negative,"['time', 'side', 'restaurant', 'almost', 'empty', 'no', 'excuse']",time side restaurant almost empty no excuse
+not busy either also building freezing cold,negative,"['not', 'busy', 'either', 'also', 'building', 'freezing', 'cold']",not busy either also building freezing cold
+like reviewer said could not pay eat place,negative,"['like', 'reviewer', 'said', 'could', 'not', 'pay', 'eat', 'place']",like reviewer said could not pay eat place
+drinks took close 30 minutes come one point,negative,"['drinks', 'took', 'close', '30', 'minutes', 'come', 'one', 'point']",drink took close 30 minute come one point
+seriously flavorful delights folks,positive,"['seriously', 'flavorful', 'delights', 'folks']",seriously flavorful delight folk
+much better ayce sushi place went vegas,positive,"['much', 'better', 'ayce', 'sushi', 'place', 'went', 'vegas']",much better ayce sushi place went vega
+lighting dark enough set mood,positive,"['lighting', 'dark', 'enough', 'set', 'mood']",lighting dark enough set mood
+based subpar service received no effort show gratitude business not going back,negative,"['based', 'subpar', 'service', 'received', 'no', 'effort', 'show', 'gratitude', 'business', 'not', 'going', 'back']",based subpar service received no effort show gratitude business not going back
+owners really great people,positive,"['owners', 'really', 'great', 'people']",owner really great people
+nothing privileged workingeating,negative,"['nothing', 'privileged', 'workingeating']",nothing privileged workingeating
+greek dressing creamy flavorful,positive,"['greek', 'dressing', 'creamy', 'flavorful']",greek dressing creamy flavorful
+overall not think would take parents place made similar complaints silently felt,negative,"['overall', 'not', 'think', 'would', 'take', 'parents', 'place', 'made', 'similar', 'complaints', 'silently', 'felt']",overall not think would take parent place made similar complaint silently felt
+pizza good peanut sauce tasty,positive,"['pizza', 'good', 'peanut', 'sauce', 'tasty']",pizza good peanut sauce tasty
+7 table service pretty fast,positive,"['7', 'table', 'service', 'pretty', 'fast']",7 table service pretty fast
+fantastic service,positive,"['fantastic', 'service']",fantastic service
+well would given godfathers zero stars possible,negative,"['well', 'would', 'given', 'godfathers', 'zero', 'stars', 'possible']",well would given godfather zero star possible
+know make,positive,"['know', 'make']",know make
+tough short flavor,negative,"['tough', 'short', 'flavor']",tough short flavor
+hope place sticks around,positive,"['hope', 'place', 'sticks', 'around']",hope place stick around
+bars vegas not ever recall charged tap water,negative,"['bars', 'vegas', 'not', 'ever', 'recall', 'charged', 'tap', 'water']",bar vega not ever recall charged tap water
+restaurant atmosphere exquisite,positive,"['restaurant', 'atmosphere', 'exquisite']",restaurant atmosphere exquisite
+good service clean inexpensive boot,positive,"['good', 'service', 'clean', 'inexpensive', 'boot']",good service clean inexpensive boot
+seafood fresh generous portion,positive,"['seafood', 'fresh', 'generous', 'portion']",seafood fresh generous portion
+plus 8 bucks,positive,"['plus', '8', 'bucks']",plus 8 buck
+service not par either,negative,"['service', 'not', 'par', 'either']",service not par either
+thus far visited twice food absolutely delicious time,positive,"['thus', 'far', 'visited', 'twice', 'food', 'absolutely', 'delicious', 'time']",thus far visited twice food absolutely delicious time
+good year ago,positive,"['good', 'year', 'ago']",good year ago
+self proclaimed coffee cafe wildly disappointed,negative,"['self', 'proclaimed', 'coffee', 'cafe', 'wildly', 'disappointed']",self proclaimed coffee cafe wildly disappointed
+veggitarian platter world,positive,"['veggitarian', 'platter', 'world']",veggitarian platter world
+cannot go wrong food,positive,"['can', 'not', 'go', 'wrong', 'food']",can not go wrong food
+cannot beat,positive,"['can', 'not', 'beat']",can not beat
+stopped place madison ironman friendly kind staff,positive,"['stopped', 'place', 'madison', 'ironman', 'friendly', 'kind', 'staff']",stopped place madison ironman friendly kind staff
+chefs friendly good job,positive,"['chefs', 'friendly', 'good', 'job']",chef friendly good job
+better not dedicated boba tea spots even jenni pho,negative,"['better', 'not', 'dedicated', 'boba', 'tea', 'spots', 'even', 'jenni', 'pho']",better not dedicated boba tea spot even jenni pho
+liked patio service outstanding,positive,"['liked', 'patio', 'service', 'outstanding']",liked patio service outstanding
+goat taco not skimp meat wow flavor,positive,"['goat', 'taco', 'not', 'skimp', 'meat', 'wow', 'flavor']",goat taco not skimp meat wow flavor
+think not,negative,"['think', 'not']",think not
+mac salad pretty bland not getting,negative,"['mac', 'salad', 'pretty', 'bland', 'not', 'getting']",mac salad pretty bland not getting
+went bachi burger friends recommendation not disappointed,positive,"['went', 'bachi', 'burger', 'friends', 'recommendation', 'not', 'disappointed']",went bachi burger friend recommendation not disappointed
+service stinks,negative,"['service', 'stinks']",service stink
+waited waited,negative,"['waited', 'waited']",waited waited
+place not quality sushi not quality restaurant,negative,"['place', 'not', 'quality', 'sushi', 'not', 'quality', 'restaurant']",place not quality sushi not quality restaurant
+would definitely recommend wings well pizza,positive,"['would', 'definitely', 'recommend', 'wings', 'well', 'pizza']",would definitely recommend wing well pizza
+great pizza salads,positive,"['great', 'pizza', 'salads']",great pizza salad
+things went wrong burned saganaki,negative,"['things', 'went', 'wrong', 'burned', 'saganaki']",thing went wrong burned saganaki
+waited hour breakfast could done 100 times better home,negative,"['waited', 'hour', 'breakfast', 'could', 'done', '100', 'times', 'better', 'home']",waited hour breakfast could done 100 time better home
+place amazing,positive,"['place', 'amazing']",place amazing
+hate disagree fellow yelpers husband disappointed place,negative,"['hate', 'disagree', 'fellow', 'yelpers', 'husband', 'disappointed', 'place']",hate disagree fellow yelpers husband disappointed place
+waited 2 hours never got either pizzas many around us came later,negative,"['waited', '2', 'hours', 'never', 'got', 'either', 'pizzas', 'many', 'around', 'us', 'came', 'later']",waited 2 hour never got either pizza many around u came later
+not know slow,negative,"['not', 'know', 'slow']",not know slow
+staff great food delish incredible beer selection,positive,"['staff', 'great', 'food', 'delish', 'incredible', 'beer', 'selection']",staff great food delish incredible beer selection
+live neighborhood disappointed not back convenient location,negative,"['live', 'neighborhood', 'disappointed', 'not', 'back', 'convenient', 'location']",live neighborhood disappointed not back convenient location
+not know pulled pork could soooo delicious,positive,"['not', 'know', 'pulled', 'pork', 'could', 'soooo', 'delicious']",not know pulled pork could soooo delicious
+get incredibly fresh fish prepared care,positive,"['get', 'incredibly', 'fresh', 'fish', 'prepared', 'care']",get incredibly fresh fish prepared care
+go gave 1 star rating please know third time eating bachi burger writing review,negative,"['go', 'gave', '1', 'star', 'rating', 'please', 'know', 'third', 'time', 'eating', 'bachi', 'burger', 'writing', 'review']",go gave 1 star rating please know third time eating bachi burger writing review
+love fact everything menu worth,positive,"['love', 'fact', 'everything', 'menu', 'worth']",love fact everything menu worth
+never dining place,negative,"['never', 'dining', 'place']",never dining place
+food excellent service good,positive,"['food', 'excellent', 'service', 'good']",food excellent service good
+good beer drink selection good food selection,positive,"['good', 'beer', 'drink', 'selection', 'good', 'food', 'selection']",good beer drink selection good food selection
+please stay away shrimp stir fried noodles,negative,"['please', 'stay', 'away', 'shrimp', 'stir', 'fried', 'noodles']",please stay away shrimp stir fried noodle
+potato chip order sad could probably count many chips box probably around 12,negative,"['potato', 'chip', 'order', 'sad', 'could', 'probably', 'count', 'many', 'chips', 'box', 'probably', 'around', '12']",potato chip order sad could probably count many chip box probably around 12
+food really boring,negative,"['food', 'really', 'boring']",food really boring
+good servicecheck,positive,"['good', 'servicecheck']",good servicecheck
+greedy corporation never see another dime,negative,"['greedy', 'corporation', 'never', 'see', 'another', 'dime']",greedy corporation never see another dime
+never ever go back,negative,"['never', 'ever', 'go', 'back']",never ever go back
+much id like go back cannot get passed atrocious service never return,negative,"['much', 'id', 'like', 'go', 'back', 'can', 'not', 'get', 'passed', 'atrocious', 'service', 'never', 'return']",much id like go back can not get passed atrocious service never return
+summer dine charming outdoor patio delightful,positive,"['summer', 'dine', 'charming', 'outdoor', 'patio', 'delightful']",summer dine charming outdoor patio delightful
+not expect good,positive,"['not', 'expect', 'good']",not expect good
+fantastic food,positive,"['fantastic', 'food']",fantastic food
+ordered toasted english muffin came untoasted,negative,"['ordered', 'toasted', 'english', 'muffin', 'came', 'untoasted']",ordered toasted english muffin came untoasted
+food good,positive,"['food', 'good']",food good
+never going back,negative,"['never', 'going', 'back']",never going back
+great food price high quality house made,positive,"['great', 'food', 'price', 'high', 'quality', 'house', 'made']",great food price high quality house made
+bus boy hand rude,negative,"['bus', 'boy', 'hand', 'rude']",bus boy hand rude
+point friends basically figured place joke not mind making publicly loudly known,negative,"['point', 'friends', 'basically', 'figured', 'place', 'joke', 'not', 'mind', 'making', 'publicly', 'loudly', 'known']",point friend basically figured place joke not mind making publicly loudly known
+back good bbq lighter fare reasonable pricing tell public back old ways,positive,"['back', 'good', 'bbq', 'lighter', 'fare', 'reasonable', 'pricing', 'tell', 'public', 'back', 'old', 'ways']",back good bbq lighter fare reasonable pricing tell public back old way
+considering two us left full happy 20 cannot go wrong,positive,"['considering', 'two', 'us', 'left', 'full', 'happy', '20', 'can', 'not', 'go', 'wrong']",considering two u left full happy 20 can not go wrong
+bread made inhouse,positive,"['bread', 'made', 'inhouse']",bread made inhouse
+downside service,negative,"['downside', 'service']",downside service
+also fries without doubt worst fries ever,negative,"['also', 'fries', 'without', 'doubt', 'worst', 'fries', 'ever']",also fry without doubt worst fry ever
+service exceptional food good reviews,positive,"['service', 'exceptional', 'food', 'good', 'reviews']",service exceptional food good review
+couple months later returned amazing meal,positive,"['couple', 'months', 'later', 'returned', 'amazing', 'meal']",couple month later returned amazing meal
+favorite place town shawarrrrrrma,positive,"['favorite', 'place', 'town', 'shawarrrrrrma']",favorite place town shawarrrrrrma
+black eyed peas sweet potatoes unreal,positive,"['black', 'eyed', 'peas', 'sweet', 'potatoes', 'unreal']",black eyed pea sweet potato unreal
+not disappointed,positive,"['not', 'disappointed']",not disappointed
+could serve vinaigrette may make better overall dish still good,positive,"['could', 'serve', 'vinaigrette', 'may', 'make', 'better', 'overall', 'dish', 'still', 'good']",could serve vinaigrette may make better overall dish still good
+go far many places never seen restaurant serves 1 egg breakfast especially 400,negative,"['go', 'far', 'many', 'places', 'never', 'seen', 'restaurant', 'serves', '1', 'egg', 'breakfast', 'especially', '400']",go far many place never seen restaurant serf 1 egg breakfast especially 400
+mom got home immediately got sick bites salad,negative,"['mom', 'got', 'home', 'immediately', 'got', 'sick', 'bites', 'salad']",mom got home immediately got sick bite salad
+servers not pleasant deal not always honor pizza hut coupons,negative,"['servers', 'not', 'pleasant', 'deal', 'not', 'always', 'honor', 'pizza', 'hut', 'coupons']",server not pleasant deal not always honor pizza hut coupon
+truly unbelievably good glad went back,positive,"['truly', 'unbelievably', 'good', 'glad', 'went', 'back']",truly unbelievably good glad went back
+fantastic service pleased atmosphere,positive,"['fantastic', 'service', 'pleased', 'atmosphere']",fantastic service pleased atmosphere
+everything gross,negative,"['everything', 'gross']",everything gross
+love place,positive,"['love', 'place']",love place
+great service food,positive,"['great', 'service', 'food']",great service food
+first bathrooms location dirty seat covers not replenished plain yucky,negative,"['first', 'bathrooms', 'location', 'dirty', 'seat', 'covers', 'not', 'replenished', 'plain', 'yucky']",first bathroom location dirty seat cover not replenished plain yucky
+burger got gold standard 17 burger kind disappointed,negative,"['burger', 'got', 'gold', 'standard', '17', 'burger', 'kind', 'disappointed']",burger got gold standard 17 burger kind disappointed
+omg food delicioso,positive,"['omg', 'food', 'delicioso']",omg food delicioso
+nothing authentic place,negative,"['nothing', 'authentic', 'place']",nothing authentic place
+spaghetti nothing special whatsoever,negative,"['spaghetti', 'nothing', 'special', 'whatsoever']",spaghetti nothing special whatsoever
+dishes salmon best great,positive,"['dishes', 'salmon', 'best', 'great']",dish salmon best great
+vegetables fresh sauce feels like authentic thai,positive,"['vegetables', 'fresh', 'sauce', 'feels', 'like', 'authentic', 'thai']",vegetable fresh sauce feel like authentic thai
+worth driving tucson,positive,"['worth', 'driving', 'tucson']",worth driving tucson
+selection probably worst seen vegasthere none,negative,"['selection', 'probably', 'worst', 'seen', 'vegasthere', 'none']",selection probably worst seen vegasthere none
+pretty good beer selection,positive,"['pretty', 'good', 'beer', 'selection']",pretty good beer selection
+place like chipotle better,positive,"['place', 'like', 'chipotle', 'better']",place like chipotle better
+classywarm atmosphere fun fresh appetizers succulent steaks baseball steak,positive,"['classywarm', 'atmosphere', 'fun', 'fresh', 'appetizers', 'succulent', 'steaks', 'baseball', 'steak']",classywarm atmosphere fun fresh appetizer succulent steak baseball steak
+5 stars brick oven bread app,positive,"['5', 'stars', 'brick', 'oven', 'bread', 'app']",5 star brick oven bread app
+eaten multiple times time food delicious,positive,"['eaten', 'multiple', 'times', 'time', 'food', 'delicious']",eaten multiple time time food delicious
+sat another ten minutes finally gave left,negative,"['sat', 'another', 'ten', 'minutes', 'finally', 'gave', 'left']",sat another ten minute finally gave left
+terrible,negative,['terrible'],terrible
+everyone treated equally special,positive,"['everyone', 'treated', 'equally', 'special']",everyone treated equally special
+not take 30 min pancakes eggs,negative,"['not', 'take', '30', 'min', 'pancakes', 'eggs']",not take 30 min pancake egg
+good side staff genuinely pleasant enthusiastic real treat,positive,"['good', 'side', 'staff', 'genuinely', 'pleasant', 'enthusiastic', 'real', 'treat']",good side staff genuinely pleasant enthusiastic real treat
+sadly gordon ramseys steak place shall sharply avoid next trip vegas,negative,"['sadly', 'gordon', 'ramseys', 'steak', 'place', 'shall', 'sharply', 'avoid', 'next', 'trip', 'vegas']",sadly gordon ramseys steak place shall sharply avoid next trip vega
+always evening wonderful food delicious,positive,"['always', 'evening', 'wonderful', 'food', 'delicious']",always evening wonderful food delicious
+best fish ever life,positive,"['best', 'fish', 'ever', 'life']",best fish ever life
+bathroom next door nice,positive,"['bathroom', 'next', 'door', 'nice']",bathroom next door nice
+buffet small food offered bland,negative,"['buffet', 'small', 'food', 'offered', 'bland']",buffet small food offered bland
+outstanding little restaurant best food ever tasted,positive,"['outstanding', 'little', 'restaurant', 'best', 'food', 'ever', 'tasted']",outstanding little restaurant best food ever tasted
+pretty cool would say,positive,"['pretty', 'cool', 'would', 'say']",pretty cool would say
+definitely turn doubt ill back unless someone else buying,negative,"['definitely', 'turn', 'doubt', 'ill', 'back', 'unless', 'someone', 'else', 'buying']",definitely turn doubt ill back unless someone else buying
+server great job handling large rowdy table,positive,"['server', 'great', 'job', 'handling', 'large', 'rowdy', 'table']",server great job handling large rowdy table
+find wasting food despicable not food,negative,"['find', 'wasting', 'food', 'despicable', 'not', 'food']",find wasting food despicable not food
+wife lobster bisque soup lukewarm,negative,"['wife', 'lobster', 'bisque', 'soup', 'lukewarm']",wife lobster bisque soup lukewarm
+would come back sushi craving vegas,positive,"['would', 'come', 'back', 'sushi', 'craving', 'vegas']",would come back sushi craving vega
+staff great ambiance great,positive,"['staff', 'great', 'ambiance', 'great']",staff great ambiance great
+deserves 5 stars,positive,"['deserves', '5', 'stars']",deserves 5 star
+left stomach ache felt sick rest day,negative,"['left', 'stomach', 'ache', 'felt', 'sick', 'rest', 'day']",left stomach ache felt sick rest day
+dropped ball,negative,"['dropped', 'ball']",dropped ball
+dining space tiny elegantly decorated comfortable,positive,"['dining', 'space', 'tiny', 'elegantly', 'decorated', 'comfortable']",dining space tiny elegantly decorated comfortable
+customize order way would like usual eggplant green bean stir fry love,positive,"['customize', 'order', 'way', 'would', 'like', 'usual', 'eggplant', 'green', 'bean', 'stir', 'fry', 'love']",customize order way would like usual eggplant green bean stir fry love
+beans rice mediocre best,negative,"['beans', 'rice', 'mediocre', 'best']",bean rice mediocre best
+best tacos town far,positive,"['best', 'tacos', 'town', 'far']",best taco town far
+took back money got outta,negative,"['took', 'back', 'money', 'got', 'outta']",took back money got outta
+interesting part town place amazing,positive,"['interesting', 'part', 'town', 'place', 'amazing']",interesting part town place amazing
+rude inconsiderate management,negative,"['rude', 'inconsiderate', 'management']",rude inconsiderate management
+staff not friendly wait times served horrible no one even says hi first 10 minutes,negative,"['staff', 'not', 'friendly', 'wait', 'times', 'served', 'horrible', 'no', 'one', 'even', 'says', 'hi', 'first', '10', 'minutes']",staff not friendly wait time served horrible no one even say hi first 10 minute
+not back,negative,"['not', 'back']",not back
+great dinners,positive,"['great', 'dinners']",great dinner
+service outshining definitely recommend halibut,positive,"['service', 'outshining', 'definitely', 'recommend', 'halibut']",service outshining definitely recommend halibut
+food terrible,negative,"['food', 'terrible']",food terrible
+never ever go back told many people happened,negative,"['never', 'ever', 'go', 'back', 'told', 'many', 'people', 'happened']",never ever go back told many people happened
+not recommend unless car breaks front starving,negative,"['not', 'recommend', 'unless', 'car', 'breaks', 'front', 'starving']",not recommend unless car break front starving
+come back every time vegas,positive,"['come', 'back', 'every', 'time', 'vegas']",come back every time vega
+place deserves one star 90 food,negative,"['place', 'deserves', 'one', 'star', '90', 'food']",place deserves one star 90 food
+disgrace,negative,['disgrace'],disgrace
+def coming back bowl next time,positive,"['def', 'coming', 'back', 'bowl', 'next', 'time']",def coming back bowl next time
+want healthy authentic ethic food try place,positive,"['want', 'healthy', 'authentic', 'ethic', 'food', 'try', 'place']",want healthy authentic ethic food try place
+continue come ladies night andddd date night highly recommend place anyone area,positive,"['continue', 'come', 'ladies', 'night', 'andddd', 'date', 'night', 'highly', 'recommend', 'place', 'anyone', 'area']",continue come lady night andddd date night highly recommend place anyone area
+several times past experience always great,positive,"['several', 'times', 'past', 'experience', 'always', 'great']",several time past experience always great
+walked away stuffed happy first vegas buffet experience,positive,"['walked', 'away', 'stuffed', 'happy', 'first', 'vegas', 'buffet', 'experience']",walked away stuffed happy first vega buffet experience
+service excellent prices pretty reasonable considering vegas located inside crystals shopping mall aria,positive,"['service', 'excellent', 'prices', 'pretty', 'reasonable', 'considering', 'vegas', 'located', 'inside', 'crystals', 'shopping', 'mall', 'aria']",service excellent price pretty reasonable considering vega located inside crystal shopping mall aria
+summarize food incredible nay transcendant nothing brings joy quite like memory pneumatic condiment dispenser,positive,"['summarize', 'food', 'incredible', 'nay', 'transcendant', 'nothing', 'brings', 'joy', 'quite', 'like', 'memory', 'pneumatic', 'condiment', 'dispenser']",summarize food incredible nay transcendant nothing brings joy quite like memory pneumatic condiment dispenser
+probably one people ever go ians not like,negative,"['probably', 'one', 'people', 'ever', 'go', 'ians', 'not', 'like']",probably one people ever go ians not like
+kids pizza always hit lots great side dish options kiddos,positive,"['kids', 'pizza', 'always', 'hit', 'lots', 'great', 'side', 'dish', 'options', 'kiddos']",kid pizza always hit lot great side dish option kiddos
+service perfect family atmosphere nice see,positive,"['service', 'perfect', 'family', 'atmosphere', 'nice', 'see']",service perfect family atmosphere nice see
+cooked perfection service impeccable,positive,"['cooked', 'perfection', 'service', 'impeccable']",cooked perfection service impeccable
+one simply disappointment,negative,"['one', 'simply', 'disappointment']",one simply disappointment
+overall disappointed quality food bouchon,negative,"['overall', 'disappointed', 'quality', 'food', 'bouchon']",overall disappointed quality food bouchon
+not accountant know getting screwed,negative,"['not', 'accountant', 'know', 'getting', 'screwed']",not accountant know getting screwed
+great place eat reminds little mom pop shops san francisco bay area,positive,"['great', 'place', 'eat', 'reminds', 'little', 'mom', 'pop', 'shops', 'san', 'francisco', 'bay', 'area']",great place eat reminds little mom pop shop san francisco bay area
+today first taste buldogis gourmet hot dog tell ever thought possible,positive,"['today', 'first', 'taste', 'buldogis', 'gourmet', 'hot', 'dog', 'tell', 'ever', 'thought', 'possible']",today first taste buldogis gourmet hot dog tell ever thought possible
+left frustrated,negative,"['left', 'frustrated']",left frustrated
+ill definitely soon,positive,"['ill', 'definitely', 'soon']",ill definitely soon
+food really good got full petty fast,positive,"['food', 'really', 'good', 'got', 'full', 'petty', 'fast']",food really good got full petty fast
+service fantastic,positive,"['service', 'fantastic']",service fantastic
+total waste time,negative,"['total', 'waste', 'time']",total waste time
+not know kind best iced tea,positive,"['not', 'know', 'kind', 'best', 'iced', 'tea']",not know kind best iced tea
+come hungry leave happy stuffed,positive,"['come', 'hungry', 'leave', 'happy', 'stuffed']",come hungry leave happy stuffed
+service give no stars,negative,"['service', 'give', 'no', 'stars']",service give no star
+assure not disappointed,positive,"['assure', 'not', 'disappointed']",assure not disappointed
+take little bad service food sucks,negative,"['take', 'little', 'bad', 'service', 'food', 'sucks']",take little bad service food suck
+gave trying eat crust teeth still sore,negative,"['gave', 'trying', 'eat', 'crust', 'teeth', 'still', 'sore']",gave trying eat crust teeth still sore
+completely grossed,negative,"['completely', 'grossed']",completely grossed
+really enjoyed eating,positive,"['really', 'enjoyed', 'eating']",really enjoyed eating
+first time going think quickly become regular,positive,"['first', 'time', 'going', 'think', 'quickly', 'become', 'regular']",first time going think quickly become regular
+server nice even though looked little overwhelmed needs stayed professional friendly end,positive,"['server', 'nice', 'even', 'though', 'looked', 'little', 'overwhelmed', 'needs', 'stayed', 'professional', 'friendly', 'end']",server nice even though looked little overwhelmed need stayed professional friendly end
+dinner companions told meeverything fresh nice texture taste,positive,"['dinner', 'companions', 'told', 'meeverything', 'fresh', 'nice', 'texture', 'taste']",dinner companion told meeverything fresh nice texture taste
+ground right next table large smeared beensteppedinandtrackedeverywhere pile green bird poop,negative,"['ground', 'right', 'next', 'table', 'large', 'smeared', 'beensteppedinandtrackedeverywhere', 'pile', 'green', 'bird', 'poop']",ground right next table large smeared beensteppedinandtrackedeverywhere pile green bird poop
+furthermore cannot even find hours operation website,negative,"['furthermore', 'can', 'not', 'even', 'find', 'hours', 'operation', 'website']",furthermore can not even find hour operation website
+tried like place 10 times think done,negative,"['tried', 'like', 'place', '10', 'times', 'think', 'done']",tried like place 10 time think done
+mistake,negative,['mistake'],mistake
+no complaints,positive,"['no', 'complaints']",no complaint
+seriously good pizza expertconnisseur topic,positive,"['seriously', 'good', 'pizza', 'expertconnisseur', 'topic']",seriously good pizza expertconnisseur topic
+waiter jerk,negative,"['waiter', 'jerk']",waiter jerk
+strike 2 wants rushed,negative,"['strike', '2', 'wants', 'rushed']",strike 2 want rushed
+nicest restaurant owners ever come across,positive,"['nicest', 'restaurant', 'owners', 'ever', 'come', 'across']",nicest restaurant owner ever come across
+never come,negative,"['never', 'come']",never come
+loved biscuits,positive,"['loved', 'biscuits']",loved biscuit
+service quick friendly,positive,"['service', 'quick', 'friendly']",service quick friendly
+ordered appetizer took 40 minutes pizza another 10 minutes,negative,"['ordered', 'appetizer', 'took', '40', 'minutes', 'pizza', 'another', '10', 'minutes']",ordered appetizer took 40 minute pizza another 10 minute
+absolutley fantastic,positive,"['absolutley', 'fantastic']",absolutley fantastic
+huge awkward 15lb piece cow 34ths gristle fat,negative,"['huge', 'awkward', '15lb', 'piece', 'cow', '34ths', 'gristle', 'fat']",huge awkward 15lb piece cow 34ths gristle fat
+definitely come back,positive,"['definitely', 'come', 'back']",definitely come back
+like steiners dark feels like bar,positive,"['like', 'steiners', 'dark', 'feels', 'like', 'bar']",like steiner dark feel like bar
+wow spicy delicious,positive,"['wow', 'spicy', 'delicious']",wow spicy delicious
+not familiar check,positive,"['not', 'familiar', 'check']",not familiar check
+ill take business dinner dollars elsewhere,negative,"['ill', 'take', 'business', 'dinner', 'dollars', 'elsewhere']",ill take business dinner dollar elsewhere
+id love go back,positive,"['id', 'love', 'go', 'back']",id love go back
+anyway fs restaurant wonderful breakfastlunch,positive,"['anyway', 'fs', 'restaurant', 'wonderful', 'breakfastlunch']",anyway f restaurant wonderful breakfastlunch
+nothing special,negative,"['nothing', 'special']",nothing special
+day week different deal delicious,positive,"['day', 'week', 'different', 'deal', 'delicious']",day week different deal delicious
+not mention combination pears almonds bacon big winner,positive,"['not', 'mention', 'combination', 'pears', 'almonds', 'bacon', 'big', 'winner']",not mention combination pear almond bacon big winner
+sauce tasteless,negative,"['sauce', 'tasteless']",sauce tasteless
+food delicious spicy enough sure ask spicier prefer way,positive,"['food', 'delicious', 'spicy', 'enough', 'sure', 'ask', 'spicier', 'prefer', 'way']",food delicious spicy enough sure ask spicier prefer way
+ribeye steak cooked perfectly great mesquite flavor,positive,"['ribeye', 'steak', 'cooked', 'perfectly', 'great', 'mesquite', 'flavor']",ribeye steak cooked perfectly great mesquite flavor
+not think well going back anytime soon,negative,"['not', 'think', 'well', 'going', 'back', 'anytime', 'soon']",not think well going back anytime soon
+food gooodd,positive,"['food', 'gooodd']",food gooodd
+far sushi connoisseur definitely tell difference good food bad food certainly bad food,negative,"['far', 'sushi', 'connoisseur', 'definitely', 'tell', 'difference', 'good', 'food', 'bad', 'food', 'certainly', 'bad', 'food']",far sushi connoisseur definitely tell difference good food bad food certainly bad food
+insulted,negative,['insulted'],insulted
+last 3 times lunch bad,negative,"['last', '3', 'times', 'lunch', 'bad']",last 3 time lunch bad
+chicken wings contained driest chicken meat ever eaten,negative,"['chicken', 'wings', 'contained', 'driest', 'chicken', 'meat', 'ever', 'eaten']",chicken wing contained driest chicken meat ever eaten
+food good enjoyed every mouthful enjoyable relaxed venue couples small family groups etc,positive,"['food', 'good', 'enjoyed', 'every', 'mouthful', 'enjoyable', 'relaxed', 'venue', 'couples', 'small', 'family', 'groups', 'etc']",food good enjoyed every mouthful enjoyable relaxed venue couple small family group etc
+nargile think great,positive,"['nargile', 'think', 'great']",nargile think great
+best tater tots southwest,positive,"['best', 'tater', 'tots', 'southwest']",best tater tot southwest
+loved place,positive,"['loved', 'place']",loved place
+definitely not worth 3 paid,negative,"['definitely', 'not', 'worth', '3', 'paid']",definitely not worth 3 paid
+vanilla ice cream creamy smooth profiterole choux pastry fresh enough,positive,"['vanilla', 'ice', 'cream', 'creamy', 'smooth', 'profiterole', 'choux', 'pastry', 'fresh', 'enough']",vanilla ice cream creamy smooth profiterole chou pastry fresh enough
+az time new spot,positive,"['az', 'time', 'new', 'spot']",az time new spot
+manager worst,negative,"['manager', 'worst']",manager worst
+inside really quite nice clean,positive,"['inside', 'really', 'quite', 'nice', 'clean']",inside really quite nice clean
+food outstanding prices reasonable,positive,"['food', 'outstanding', 'prices', 'reasonable']",food outstanding price reasonable
+not think ill running back carlys anytime soon food,negative,"['not', 'think', 'ill', 'running', 'back', 'carlys', 'anytime', 'soon', 'food']",not think ill running back carlys anytime soon food
+due fact took 20 minutes acknowledged another 35 minutes get foodand kept forgetting things,negative,"['due', 'fact', 'took', '20', 'minutes', 'acknowledged', 'another', '35', 'minutes', 'get', 'foodand', 'kept', 'forgetting', 'things']",due fact took 20 minute acknowledged another 35 minute get foodand kept forgetting thing
+love margaritas,positive,"['love', 'margaritas']",love margarita
+first vegas buffet not disappoint,positive,"['first', 'vegas', 'buffet', 'not', 'disappoint']",first vega buffet not disappoint
+good though,positive,"['good', 'though']",good though
+one note ventilation could use upgrading,negative,"['one', 'note', 'ventilation', 'could', 'use', 'upgrading']",one note ventilation could use upgrading
+great pork sandwich,positive,"['great', 'pork', 'sandwich']",great pork sandwich
+not waste time,negative,"['not', 'waste', 'time']",not waste time
+total letdown would much rather go camelback flower shop cartel coffee,negative,"['total', 'letdown', 'would', 'much', 'rather', 'go', 'camelback', 'flower', 'shop', 'cartel', 'coffee']",total letdown would much rather go camelback flower shop cartel coffee
+third cheese friends burger cold,negative,"['third', 'cheese', 'friends', 'burger', 'cold']",third cheese friend burger cold
+enjoy pizza brunch,positive,"['enjoy', 'pizza', 'brunch']",enjoy pizza brunch
+steaks well trimmed also perfectly cooked,positive,"['steaks', 'well', 'trimmed', 'also', 'perfectly', 'cooked']",steak well trimmed also perfectly cooked
+group 70 claimed would 40 handled us beautifully,positive,"['group', '70', 'claimed', 'would', '40', 'handled', 'us', 'beautifully']",group 70 claimed would 40 handled u beautifully
+loved,positive,['loved'],loved
+asked bill leave without eating not bring either,negative,"['asked', 'bill', 'leave', 'without', 'eating', 'not', 'bring', 'either']",asked bill leave without eating not bring either
+place jewel las vegas exactly hoping find nearly ten years living,positive,"['place', 'jewel', 'las', 'vegas', 'exactly', 'hoping', 'find', 'nearly', 'ten', 'years', 'living']",place jewel la vega exactly hoping find nearly ten year living
+seafood limited boiled shrimp crab legs crab legs definitely not taste fresh,negative,"['seafood', 'limited', 'boiled', 'shrimp', 'crab', 'legs', 'crab', 'legs', 'definitely', 'not', 'taste', 'fresh']",seafood limited boiled shrimp crab leg crab leg definitely not taste fresh
+selection food not best,negative,"['selection', 'food', 'not', 'best']",selection food not best
+delicious absolutely back,positive,"['delicious', 'absolutely', 'back']",delicious absolutely back
+not small family restaurant fine dining establishment,positive,"['not', 'small', 'family', 'restaurant', 'fine', 'dining', 'establishment']",not small family restaurant fine dining establishment
+toro tartare cavier extraordinary liked thinly sliced wagyu white truffle,positive,"['toro', 'tartare', 'cavier', 'extraordinary', 'liked', 'thinly', 'sliced', 'wagyu', 'white', 'truffle']",toro tartare cavier extraordinary liked thinly sliced wagyu white truffle
+not think back long time,negative,"['not', 'think', 'back', 'long', 'time']",not think back long time
+attached gas station rarely good sign,negative,"['attached', 'gas', 'station', 'rarely', 'good', 'sign']",attached gas station rarely good sign
+awesome,positive,['awesome'],awesome
+back many times soon,positive,"['back', 'many', 'times', 'soon']",back many time soon
+menu much good stuff could not decide,positive,"['menu', 'much', 'good', 'stuff', 'could', 'not', 'decide']",menu much good stuff could not decide
+worse humiliated worker right front mebunch horrible name callings,negative,"['worse', 'humiliated', 'worker', 'right', 'front', 'mebunch', 'horrible', 'name', 'callings']",worse humiliated worker right front mebunch horrible name calling
+conclusion filling meals,positive,"['conclusion', 'filling', 'meals']",conclusion filling meal
+daily specials always hit group,positive,"['daily', 'specials', 'always', 'hit', 'group']",daily special always hit group
+tragedy struck,negative,"['tragedy', 'struck']",tragedy struck
+pancake also really good pretty large,positive,"['pancake', 'also', 'really', 'good', 'pretty', 'large']",pancake also really good pretty large
+first crawfish experience delicious,positive,"['first', 'crawfish', 'experience', 'delicious']",first crawfish experience delicious
+monster chicken fried steak eggs time favorite,positive,"['monster', 'chicken', 'fried', 'steak', 'eggs', 'time', 'favorite']",monster chicken fried steak egg time favorite
+waitress sweet funny,positive,"['waitress', 'sweet', 'funny']",waitress sweet funny
+also taste moms multigrain pumpkin pancakes pecan butter amazing fluffy delicious,positive,"['also', 'taste', 'moms', 'multigrain', 'pumpkin', 'pancakes', 'pecan', 'butter', 'amazing', 'fluffy', 'delicious']",also taste mom multigrain pumpkin pancake pecan butter amazing fluffy delicious
+id rather eat airline food seriously,negative,"['id', 'rather', 'eat', 'airline', 'food', 'seriously']",id rather eat airline food seriously
+cannot say enough good things place,positive,"['can', 'not', 'say', 'enough', 'good', 'things', 'place']",can not say enough good thing place
+ambiance incredible,positive,"['ambiance', 'incredible']",ambiance incredible
+waitress manager friendly,positive,"['waitress', 'manager', 'friendly']",waitress manager friendly
+would not recommend place,negative,"['would', 'not', 'recommend', 'place']",would not recommend place
+overall not impressed noca,negative,"['overall', 'not', 'impressed', 'noca']",overall not impressed noca
+gyro basically lettuce,negative,"['gyro', 'basically', 'lettuce']",gyro basically lettuce
+terrible service,negative,"['terrible', 'service']",terrible service
+thoroughly disappointed,negative,"['thoroughly', 'disappointed']",thoroughly disappointed
+not much pasta love homemade hand made pastas thin pizzas,positive,"['not', 'much', 'pasta', 'love', 'homemade', 'hand', 'made', 'pastas', 'thin', 'pizzas']",not much pasta love homemade hand made pasta thin pizza
+give try happy,positive,"['give', 'try', 'happy']",give try happy
+far best cheesecurds ever,positive,"['far', 'best', 'cheesecurds', 'ever']",far best cheesecurds ever
+reasonably priced also,positive,"['reasonably', 'priced', 'also']",reasonably priced also
+everything perfect night,positive,"['everything', 'perfect', 'night']",everything perfect night
+food good typical bar food,positive,"['food', 'good', 'typical', 'bar', 'food']",food good typical bar food
+drive get,negative,"['drive', 'get']",drive get
+first glance lovely bakery cafe nice ambiance clean friendly staff,positive,"['first', 'glance', 'lovely', 'bakery', 'cafe', 'nice', 'ambiance', 'clean', 'friendly', 'staff']",first glance lovely bakery cafe nice ambiance clean friendly staff
+anyway not think go back,negative,"['anyway', 'not', 'think', 'go', 'back']",anyway not think go back
+point finger item menu order not disappointed,positive,"['point', 'finger', 'item', 'menu', 'order', 'not', 'disappointed']",point finger item menu order not disappointed
+oh thing beauty restaurant,positive,"['oh', 'thing', 'beauty', 'restaurant']",oh thing beauty restaurant
+not gone go,positive,"['not', 'gone', 'go']",not gone go
+greasy unhealthy meal,negative,"['greasy', 'unhealthy', 'meal']",greasy unhealthy meal
+first time might last,negative,"['first', 'time', 'might', 'last']",first time might last
+burgers amazing,positive,"['burgers', 'amazing']",burger amazing
+similarly delivery man not say word apology food 45 minutes late,negative,"['similarly', 'delivery', 'man', 'not', 'say', 'word', 'apology', 'food', '45', 'minutes', 'late']",similarly delivery man not say word apology food 45 minute late
+way expensive,negative,"['way', 'expensive']",way expensive
+sure order dessert even need pack togo tiramisu cannoli die,positive,"['sure', 'order', 'dessert', 'even', 'need', 'pack', 'togo', 'tiramisu', 'cannoli', 'die']",sure order dessert even need pack togo tiramisu cannoli die
+first time cannot wait next,positive,"['first', 'time', 'can', 'not', 'wait', 'next']",first time can not wait next
+bartender also nice,positive,"['bartender', 'also', 'nice']",bartender also nice
+everything good tasty,positive,"['everything', 'good', 'tasty']",everything good tasty
+place two thumbs upway,positive,"['place', 'two', 'thumbs', 'upway']",place two thumb upway
+best place vegas breakfast check sat sun,positive,"['best', 'place', 'vegas', 'breakfast', 'check', 'sat', 'sun']",best place vega breakfast check sat sun
+love authentic mexican food want whole bunch interesting yet delicious meats choose need try place,positive,"['love', 'authentic', 'mexican', 'food', 'want', 'whole', 'bunch', 'interesting', 'yet', 'delicious', 'meats', 'choose', 'need', 'try', 'place']",love authentic mexican food want whole bunch interesting yet delicious meat choose need try place
+terrible management,negative,"['terrible', 'management']",terrible management
+excellent new restaurant experienced frenchman,positive,"['excellent', 'new', 'restaurant', 'experienced', 'frenchman']",excellent new restaurant experienced frenchman
+zero stars would give zero stars,negative,"['zero', 'stars', 'would', 'give', 'zero', 'stars']",zero star would give zero star
+great steak great sides great wine amazing desserts,positive,"['great', 'steak', 'great', 'sides', 'great', 'wine', 'amazing', 'desserts']",great steak great side great wine amazing dessert
+worst martini ever,negative,"['worst', 'martini', 'ever']",worst martini ever
+steak shrimp opinion best entrees gc,positive,"['steak', 'shrimp', 'opinion', 'best', 'entrees', 'gc']",steak shrimp opinion best entree gc
+opportunity today sample amazing pizzas,positive,"['opportunity', 'today', 'sample', 'amazing', 'pizzas']",opportunity today sample amazing pizza
+waited thirty minutes seated although 8 vacant tables folks waiting,negative,"['waited', 'thirty', 'minutes', 'seated', 'although', '8', 'vacant', 'tables', 'folks', 'waiting']",waited thirty minute seated although 8 vacant table folk waiting
+yellowtail carpaccio melt mouth fresh,positive,"['yellowtail', 'carpaccio', 'melt', 'mouth', 'fresh']",yellowtail carpaccio melt mouth fresh
+not try going back even empty,negative,"['not', 'try', 'going', 'back', 'even', 'empty']",not try going back even empty
+no going eat potato found strangers hair,negative,"['no', 'going', 'eat', 'potato', 'found', 'strangers', 'hair']",no going eat potato found stranger hair
+spicy enough perfect actually,positive,"['spicy', 'enough', 'perfect', 'actually']",spicy enough perfect actually
+last night second time dining happy decided go back,positive,"['last', 'night', 'second', 'time', 'dining', 'happy', 'decided', 'go', 'back']",last night second time dining happy decided go back
+not even hello right,negative,"['not', 'even', 'hello', 'right']",not even hello right
+desserts bit strange,negative,"['desserts', 'bit', 'strange']",dessert bit strange
+boyfriend came first time recent trip vegas could not pleased quality food service,positive,"['boyfriend', 'came', 'first', 'time', 'recent', 'trip', 'vegas', 'could', 'not', 'pleased', 'quality', 'food', 'service']",boyfriend came first time recent trip vega could not pleased quality food service
+really recommend place go wrong donut place,positive,"['really', 'recommend', 'place', 'go', 'wrong', 'donut', 'place']",really recommend place go wrong donut place
+nice ambiance,positive,"['nice', 'ambiance']",nice ambiance
+would recommend saving room,positive,"['would', 'recommend', 'saving', 'room']",would recommend saving room
+guess maybe went night disgraceful,negative,"['guess', 'maybe', 'went', 'night', 'disgraceful']",guess maybe went night disgraceful
+however recent experience particular location not good,negative,"['however', 'recent', 'experience', 'particular', 'location', 'not', 'good']",however recent experience particular location not good
+know not like restaurants something,negative,"['know', 'not', 'like', 'restaurants', 'something']",know not like restaurant something
+avoid establishment,negative,"['avoid', 'establishment']",avoid establishment
+think restaurant suffers not trying hard enough,negative,"['think', 'restaurant', 'suffers', 'not', 'trying', 'hard', 'enough']",think restaurant suffers not trying hard enough
+tapas dishes delicious,positive,"['tapas', 'dishes', 'delicious']",tapa dish delicious
+heart place,positive,"['heart', 'place']",heart place
+salad bland vinegrette baby greens hearts palm,negative,"['salad', 'bland', 'vinegrette', 'baby', 'greens', 'hearts', 'palm']",salad bland vinegrette baby green heart palm
+two felt disgusting,negative,"['two', 'felt', 'disgusting']",two felt disgusting
+good time,positive,"['good', 'time']",good time
+believe place great stop huge belly hankering sushi,positive,"['believe', 'place', 'great', 'stop', 'huge', 'belly', 'hankering', 'sushi']",believe place great stop huge belly hankering sushi
+generous portions great taste,positive,"['generous', 'portions', 'great', 'taste']",generous portion great taste
+never go back place never ever recommended place anyone,negative,"['never', 'go', 'back', 'place', 'never', 'ever', 'recommended', 'place', 'anyone']",never go back place never ever recommended place anyone
+servers went back forth several times not even much helped,negative,"['servers', 'went', 'back', 'forth', 'several', 'times', 'not', 'even', 'much', 'helped']",server went back forth several time not even much helped
+food delicious,positive,"['food', 'delicious']",food delicious
+hour seriously,negative,"['hour', 'seriously']",hour seriously
+consider theft,negative,"['consider', 'theft']",consider theft
+eew location needs complete overhaul,negative,"['eew', 'location', 'needs', 'complete', 'overhaul']",eew location need complete overhaul
+recently witnessed poor quality management towards guests well,negative,"['recently', 'witnessed', 'poor', 'quality', 'management', 'towards', 'guests', 'well']",recently witnessed poor quality management towards guest well
+waited waited waited,negative,"['waited', 'waited', 'waited']",waited waited waited
+also came back check us regularly excellent service,positive,"['also', 'came', 'back', 'check', 'us', 'regularly', 'excellent', 'service']",also came back check u regularly excellent service
+server super nice checked us many times,positive,"['server', 'super', 'nice', 'checked', 'us', 'many', 'times']",server super nice checked u many time
+pizza tasted old super chewy not good way,negative,"['pizza', 'tasted', 'old', 'super', 'chewy', 'not', 'good', 'way']",pizza tasted old super chewy not good way
+swung give try deeply disappointed,negative,"['swung', 'give', 'try', 'deeply', 'disappointed']",swung give try deeply disappointed
+service good company better,positive,"['service', 'good', 'company', 'better']",service good company better
+staff also friendly efficient,positive,"['staff', 'also', 'friendly', 'efficient']",staff also friendly efficient
+service fan quick served nice folks,positive,"['service', 'fan', 'quick', 'served', 'nice', 'folks']",service fan quick served nice folk
+boy sucker dry,negative,"['boy', 'sucker', 'dry']",boy sucker dry
+rated,negative,['rated'],rated
+look authentic thai food go else,negative,"['look', 'authentic', 'thai', 'food', 'go', 'else']",look authentic thai food go else
+steaks 100 recommended,positive,"['steaks', '100', 'recommended']",steak 100 recommended
+pulled car waited another 15 minutes acknowledged,negative,"['pulled', 'car', 'waited', 'another', '15', 'minutes', 'acknowledged']",pulled car waited another 15 minute acknowledged
+great food great service clean friendly setting,positive,"['great', 'food', 'great', 'service', 'clean', 'friendly', 'setting']",great food great service clean friendly setting
+assure ill back,positive,"['assure', 'ill', 'back']",assure ill back
+hate things much cheap quality black olives,negative,"['hate', 'things', 'much', 'cheap', 'quality', 'black', 'olives']",hate thing much cheap quality black olive
+breakfast perpared great beautiful presentation 3 giant slices toast lightly dusted powdered sugar,positive,"['breakfast', 'perpared', 'great', 'beautiful', 'presentation', '3', 'giant', 'slices', 'toast', 'lightly', 'dusted', 'powdered', 'sugar']",breakfast perpared great beautiful presentation 3 giant slice toast lightly dusted powdered sugar
+kids play area nasty,negative,"['kids', 'play', 'area', 'nasty']",kid play area nasty
+great place fo take eat,positive,"['great', 'place', 'fo', 'take', 'eat']",great place fo take eat
+waitress friendly happy accomodate veganveggie options,positive,"['waitress', 'friendly', 'happy', 'accomodate', 'veganveggie', 'options']",waitress friendly happy accomodate veganveggie option
+omg felt like never eaten thai food dish,positive,"['omg', 'felt', 'like', 'never', 'eaten', 'thai', 'food', 'dish']",omg felt like never eaten thai food dish
+extremely crumby pretty tasteless,negative,"['extremely', 'crumby', 'pretty', 'tasteless']",extremely crumby pretty tasteless
+pale color instead nice char no flavor,negative,"['pale', 'color', 'instead', 'nice', 'char', 'no', 'flavor']",pale color instead nice char no flavor
+croutons also taste homemade extra plus,positive,"['croutons', 'also', 'taste', 'homemade', 'extra', 'plus']",crouton also taste homemade extra plus
+got home see driest damn wings ever,negative,"['got', 'home', 'see', 'driest', 'damn', 'wings', 'ever']",got home see driest damn wing ever
+regular stop trips phoenix,positive,"['regular', 'stop', 'trips', 'phoenix']",regular stop trip phoenix
+really enjoyed crema café expanded even told friends best breakfast,positive,"['really', 'enjoyed', 'crema', 'café', 'expanded', 'even', 'told', 'friends', 'best', 'breakfast']",really enjoyed crema café expanded even told friend best breakfast
+not good money,negative,"['not', 'good', 'money']",not good money
+miss wish one philadelphia,positive,"['miss', 'wish', 'one', 'philadelphia']",miss wish one philadelphia
+got sitting fairly fast ended waiting 40 minutes place order another 30 minutes food arrived,negative,"['got', 'sitting', 'fairly', 'fast', 'ended', 'waiting', '40', 'minutes', 'place', 'order', 'another', '30', 'minutes', 'food', 'arrived']",got sitting fairly fast ended waiting 40 minute place order another 30 minute food arrived
+also best cheese crisp town,positive,"['also', 'best', 'cheese', 'crisp', 'town']",also best cheese crisp town
+good value great food great service,positive,"['good', 'value', 'great', 'food', 'great', 'service']",good value great food great service
+could not ask satisfying meal,positive,"['could', 'not', 'ask', 'satisfying', 'meal']",could not ask satisfying meal
+wanted leave,negative,"['wanted', 'leave']",wanted leave
+made drive way north scottsdale not one bit disappointed,positive,"['made', 'drive', 'way', 'north', 'scottsdale', 'not', 'one', 'bit', 'disappointed']",made drive way north scottsdale not one bit disappointed
+not eating,negative,"['not', 'eating']",not eating
+owners really really need quit soooooo cheap let wrap freaking sandwich two papers not one,negative,"['owners', 'really', 'really', 'need', 'quit', 'soooooo', 'cheap', 'let', 'wrap', 'freaking', 'sandwich', 'two', 'papers', 'not', 'one']",owner really really need quit soooooo cheap let wrap freaking sandwich two paper not one
+checked place couple years ago not impressed,negative,"['checked', 'place', 'couple', 'years', 'ago', 'not', 'impressed']",checked place couple year ago not impressed
+chicken got definitely reheated ok wedges cold soggy,negative,"['chicken', 'got', 'definitely', 'reheated', 'ok', 'wedges', 'cold', 'soggy']",chicken got definitely reheated ok wedge cold soggy
+sorry not getting food anytime soon,negative,"['sorry', 'not', 'getting', 'food', 'anytime', 'soon']",sorry not getting food anytime soon
+absolute must visit,positive,"['absolute', 'must', 'visit']",absolute must visit
+cow tongue cheek tacos amazing,positive,"['cow', 'tongue', 'cheek', 'tacos', 'amazing']",cow tongue cheek taco amazing
+friend not like bloody mary,negative,"['friend', 'not', 'like', 'bloody', 'mary']",friend not like bloody mary
+despite hard rate businesses actually rare give 1 star,negative,"['despite', 'hard', 'rate', 'businesses', 'actually', 'rare', 'give', '1', 'star']",despite hard rate business actually rare give 1 star
+really want make experience good one,positive,"['really', 'want', 'make', 'experience', 'good', 'one']",really want make experience good one
+not return,negative,"['not', 'return']",not return
+chicken pho tasted bland,negative,"['chicken', 'pho', 'tasted', 'bland']",chicken pho tasted bland
+disappointing,negative,['disappointing'],disappointing
+grilled chicken tender yellow saffron seasoning,positive,"['grilled', 'chicken', 'tender', 'yellow', 'saffron', 'seasoning']",grilled chicken tender yellow saffron seasoning
+drive thru means not want wait around half hour food somehow end going make us wait wait,negative,"['drive', 'thru', 'means', 'not', 'want', 'wait', 'around', 'half', 'hour', 'food', 'somehow', 'end', 'going', 'make', 'us', 'wait', 'wait']",drive thru mean not want wait around half hour food somehow end going make u wait wait
+pretty awesome place,positive,"['pretty', 'awesome', 'place']",pretty awesome place
+ambience perfect,positive,"['ambience', 'perfect']",ambience perfect
+best luck rude noncustomer service focused new management,negative,"['best', 'luck', 'rude', 'noncustomer', 'service', 'focused', 'new', 'management']",best luck rude noncustomer service focused new management
+grandmother make roasted chicken better one,negative,"['grandmother', 'make', 'roasted', 'chicken', 'better', 'one']",grandmother make roasted chicken better one
+asked multiple times wine list time ignored went hostess got one,negative,"['asked', 'multiple', 'times', 'wine', 'list', 'time', 'ignored', 'went', 'hostess', 'got', 'one']",asked multiple time wine list time ignored went hostess got one
+staff always super friendly helpful especially cool bring two small boys baby,positive,"['staff', 'always', 'super', 'friendly', 'helpful', 'especially', 'cool', 'bring', 'two', 'small', 'boys', 'baby']",staff always super friendly helpful especially cool bring two small boy baby
+four stars food guy blue shirt great vibe still letting us eat,positive,"['four', 'stars', 'food', 'guy', 'blue', 'shirt', 'great', 'vibe', 'still', 'letting', 'us', 'eat']",four star food guy blue shirt great vibe still letting u eat
+roast beef sandwich tasted really good,positive,"['roast', 'beef', 'sandwich', 'tasted', 'really', 'good']",roast beef sandwich tasted really good
+evening drastically sick,negative,"['evening', 'drastically', 'sick']",evening drastically sick
+highquality chicken chicken caesar salad,positive,"['highquality', 'chicken', 'chicken', 'caesar', 'salad']",highquality chicken chicken caesar salad
+ordered burger rare came well done,negative,"['ordered', 'burger', 'rare', 'came', 'well', 'done']",ordered burger rare came well done
+promptly greeted seated,positive,"['promptly', 'greeted', 'seated']",promptly greeted seated
+tried go lunch madhouse,negative,"['tried', 'go', 'lunch', 'madhouse']",tried go lunch madhouse
+proven dead wrong sushi bar not quality great service fast food impeccable,positive,"['proven', 'dead', 'wrong', 'sushi', 'bar', 'not', 'quality', 'great', 'service', 'fast', 'food', 'impeccable']",proven dead wrong sushi bar not quality great service fast food impeccable
+waiting hour seated not greatest moods,negative,"['waiting', 'hour', 'seated', 'not', 'greatest', 'moods']",waiting hour seated not greatest mood
+good joint,positive,"['good', 'joint']",good joint
+macarons insanely good,positive,"['macarons', 'insanely', 'good']",macarons insanely good
+waiter attentive friendly informative,positive,"['waiter', 'attentive', 'friendly', 'informative']",waiter attentive friendly informative
+maybe not cold would somewhat edible,negative,"['maybe', 'not', 'cold', 'would', 'somewhat', 'edible']",maybe not cold would somewhat edible
+place lot promise fails deliver,negative,"['place', 'lot', 'promise', 'fails', 'deliver']",place lot promise fails deliver
+bad experience,negative,"['bad', 'experience']",bad experience
+food average best,negative,"['food', 'average', 'best']",food average best
+great food,positive,"['great', 'food']",great food
+not going back anytime soon,negative,"['not', 'going', 'back', 'anytime', 'soon']",not going back anytime soon
+disappointed ordered 35 big bay plater,negative,"['disappointed', 'ordered', '35', 'big', 'bay', 'plater']",disappointed ordered 35 big bay plater
+great place relax awesome burger beer,positive,"['great', 'place', 'relax', 'awesome', 'burger', 'beer']",great place relax awesome burger beer
+perfect sitdown family meal get together friends,positive,"['perfect', 'sitdown', 'family', 'meal', 'get', 'together', 'friends']",perfect sitdown family meal get together friend
+not much flavor poorly constructed,negative,"['not', 'much', 'flavor', 'poorly', 'constructed']",not much flavor poorly constructed
+patio seating comfortable,positive,"['patio', 'seating', 'comfortable']",patio seating comfortable
+fried rice dry well,negative,"['fried', 'rice', 'dry', 'well']",fried rice dry well
+hands favorite italian restaurant,positive,"['hands', 'favorite', 'italian', 'restaurant']",hand favorite italian restaurant
+screams legit booksomethats also pretty rare vegas,positive,"['screams', 'legit', 'booksomethats', 'also', 'pretty', 'rare', 'vegas']",scream legit booksomethats also pretty rare vega
+not fun experience,positive,"['not', 'fun', 'experience']",not fun experience
+atmosphere great lovely duo violinists playing songs requested,positive,"['atmosphere', 'great', 'lovely', 'duo', 'violinists', 'playing', 'songs', 'requested']",atmosphere great lovely duo violinist playing song requested
+personally love hummus pita baklava falafels baba ganoush amazing eggplant,positive,"['personally', 'love', 'hummus', 'pita', 'baklava', 'falafels', 'baba', 'ganoush', 'amazing', 'eggplant']",personally love hummus pita baklava falafel baba ganoush amazing eggplant
+convenient since staying mgm,positive,"['convenient', 'since', 'staying', 'mgm']",convenient since staying mgm
+owners super friendly staff courteous,positive,"['owners', 'super', 'friendly', 'staff', 'courteous']",owner super friendly staff courteous
+great,positive,['great'],great
+eclectic selection,positive,"['eclectic', 'selection']",eclectic selection
+sweet potato tots good onion rings perfection close,positive,"['sweet', 'potato', 'tots', 'good', 'onion', 'rings', 'perfection', 'close']",sweet potato tot good onion ring perfection close
+staff attentive,positive,"['staff', 'attentive']",staff attentive
+chef generous time even came around twice take pictures,positive,"['chef', 'generous', 'time', 'even', 'came', 'around', 'twice', 'take', 'pictures']",chef generous time even came around twice take picture
+owner used work nobu place really similar half price,positive,"['owner', 'used', 'work', 'nobu', 'place', 'really', 'similar', 'half', 'price']",owner used work nobu place really similar half price
+google mediocre imagine smashburger pop,negative,"['google', 'mediocre', 'imagine', 'smashburger', 'pop']",google mediocre imagine smashburger pop
+not go,negative,"['not', 'go']",not go
+promise not disappoint,positive,"['promise', 'not', 'disappoint']",promise not disappoint
+sushi lover avoid place means,negative,"['sushi', 'lover', 'avoid', 'place', 'means']",sushi lover avoid place mean
+great double cheeseburger,positive,"['great', 'double', 'cheeseburger']",great double cheeseburger
+awesome service food,positive,"['awesome', 'service', 'food']",awesome service food
+fantastic neighborhood gem,positive,"['fantastic', 'neighborhood', 'gem']",fantastic neighborhood gem
+cannot wait go back,positive,"['can', 'not', 'wait', 'go', 'back']",can not wait go back
+plantains worst ever tasted,negative,"['plantains', 'worst', 'ever', 'tasted']",plantain worst ever tasted
+great place highly recommend,positive,"['great', 'place', 'highly', 'recommend']",great place highly recommend
+service slow not attentive,negative,"['service', 'slow', 'not', 'attentive']",service slow not attentive
+gave 5 stars giving 5 stars,positive,"['gave', '5', 'stars', 'giving', '5', 'stars']",gave 5 star giving 5 star
+staff spends time talking,negative,"['staff', 'spends', 'time', 'talking']",staff spends time talking
+dessert panna cotta amazing,positive,"['dessert', 'panna', 'cotta', 'amazing']",dessert panna cotta amazing
+good food great atmosphere1,positive,"['good', 'food', 'great', 'atmosphere1']",good food great atmosphere1
+damn good steak,positive,"['damn', 'good', 'steak']",damn good steak
+total brunch fail,negative,"['total', 'brunch', 'fail']",total brunch fail
+prices reasonable flavors spot sauce home made slaw not drenched mayo,positive,"['prices', 'reasonable', 'flavors', 'spot', 'sauce', 'home', 'made', 'slaw', 'not', 'drenched', 'mayo']",price reasonable flavor spot sauce home made slaw not drenched mayo
+decor nice piano music soundtrack pleasant,positive,"['decor', 'nice', 'piano', 'music', 'soundtrack', 'pleasant']",decor nice piano music soundtrack pleasant
+steak amazingrge fillet relleno best seafood plate ever,positive,"['steak', 'amazingrge', 'fillet', 'relleno', 'best', 'seafood', 'plate', 'ever']",steak amazingrge fillet relleno best seafood plate ever
+good food good service,positive,"['good', 'food', 'good', 'service']",good food good service
+absolutely amazing,positive,"['absolutely', 'amazing']",absolutely amazing
+probably not back honest,negative,"['probably', 'not', 'back', 'honest']",probably not back honest
+definitely back,positive,"['definitely', 'back']",definitely back
+sergeant pepper beef sandwich auju sauce excellent sandwich well,positive,"['sergeant', 'pepper', 'beef', 'sandwich', 'auju', 'sauce', 'excellent', 'sandwich', 'well']",sergeant pepper beef sandwich auju sauce excellent sandwich well
+hawaiian breeze mango magic pineapple delight smoothies tried far good,positive,"['hawaiian', 'breeze', 'mango', 'magic', 'pineapple', 'delight', 'smoothies', 'tried', 'far', 'good']",hawaiian breeze mango magic pineapple delight smoothy tried far good
+went lunch service slow,negative,"['went', 'lunch', 'service', 'slow']",went lunch service slow
+much say place walked expected amazing quickly disappointed,negative,"['much', 'say', 'place', 'walked', 'expected', 'amazing', 'quickly', 'disappointed']",much say place walked expected amazing quickly disappointed
+mortified,negative,['mortified'],mortified
+needless say never back,negative,"['needless', 'say', 'never', 'back']",needless say never back
+anyways food definitely not filling price pay expect,negative,"['anyways', 'food', 'definitely', 'not', 'filling', 'price', 'pay', 'expect']",anyways food definitely not filling price pay expect
+chips came dripping grease mostly not edible,negative,"['chips', 'came', 'dripping', 'grease', 'mostly', 'not', 'edible']",chip came dripping grease mostly not edible
+not really impressed strip steak,negative,"['not', 'really', 'impressed', 'strip', 'steak']",not really impressed strip steak
+going since 2007 every meal awesome,positive,"['going', 'since', '2007', 'every', 'meal', 'awesome']",going since 2007 every meal awesome
+server nice attentive serving staff,positive,"['server', 'nice', 'attentive', 'serving', 'staff']",server nice attentive serving staff
+cashier friendly even brought food,positive,"['cashier', 'friendly', 'even', 'brought', 'food']",cashier friendly even brought food
+work hospitality industry paradise valley refrained recommending cibo longer,negative,"['work', 'hospitality', 'industry', 'paradise', 'valley', 'refrained', 'recommending', 'cibo', 'longer']",work hospitality industry paradise valley refrained recommending cibo longer
+atmosphere fun,positive,"['atmosphere', 'fun']",atmosphere fun
+would not recommend others,negative,"['would', 'not', 'recommend', 'others']",would not recommend others
+service quick even go orders like like,positive,"['service', 'quick', 'even', 'go', 'orders', 'like', 'like']",service quick even go order like like
+mean really get famous fish chips terrible,negative,"['mean', 'really', 'get', 'famous', 'fish', 'chips', 'terrible']",mean really get famous fish chip terrible
+said mouths bellies still quite pleased,positive,"['said', 'mouths', 'bellies', 'still', 'quite', 'pleased']",said mouth belly still quite pleased
+not thing,negative,"['not', 'thing']",not thing
+2 thumbs,positive,"['2', 'thumbs']",2 thumb
+reading please not go,negative,"['reading', 'please', 'not', 'go']",reading please not go
+loved grilled pizza reminded legit italian pizza,positive,"['loved', 'grilled', 'pizza', 'reminded', 'legit', 'italian', 'pizza']",loved grilled pizza reminded legit italian pizza
+pros large seating area nice bar area great simple drink menu best brick oven pizza homemade dough,positive,"['pros', 'large', 'seating', 'area', 'nice', 'bar', 'area', 'great', 'simple', 'drink', 'menu', 'best', 'brick', 'oven', 'pizza', 'homemade', 'dough']",pro large seating area nice bar area great simple drink menu best brick oven pizza homemade dough
+really nice atmosphere,positive,"['really', 'nice', 'atmosphere']",really nice atmosphere
+tonight elk filet specialand sucked,negative,"['tonight', 'elk', 'filet', 'specialand', 'sucked']",tonight elk filet specialand sucked
+one bite hooked,positive,"['one', 'bite', 'hooked']",one bite hooked
+ordered old classics new dishes going times sorely disappointed everything,negative,"['ordered', 'old', 'classics', 'new', 'dishes', 'going', 'times', 'sorely', 'disappointed', 'everything']",ordered old classic new dish going time sorely disappointed everything
+cute quaint simple honest,positive,"['cute', 'quaint', 'simple', 'honest']",cute quaint simple honest
+chicken deliciously seasoned perfect fry outside moist chicken inside,positive,"['chicken', 'deliciously', 'seasoned', 'perfect', 'fry', 'outside', 'moist', 'chicken', 'inside']",chicken deliciously seasoned perfect fry outside moist chicken inside
+food great always compliments chef,positive,"['food', 'great', 'always', 'compliments', 'chef']",food great always compliment chef
+special thanks dylan recommendation order yummy tummy,positive,"['special', 'thanks', 'dylan', 'recommendation', 'order', 'yummy', 'tummy']",special thanks dylan recommendation order yummy tummy
+awesome selection beer,positive,"['awesome', 'selection', 'beer']",awesome selection beer
+great food awesome service,positive,"['great', 'food', 'awesome', 'service']",great food awesome service
+one nice thing added gratuity bill since party larger 6 8 not expect tip,positive,"['one', 'nice', 'thing', 'added', 'gratuity', 'bill', 'since', 'party', 'larger', '6', '8', 'not', 'expect', 'tip']",one nice thing added gratuity bill since party larger 6 8 not expect tip
+fly apple juice fly,negative,"['fly', 'apple', 'juice', 'fly']",fly apple juice fly
+han nan chicken also tasty,positive,"['han', 'nan', 'chicken', 'also', 'tasty']",han nan chicken also tasty
+service thought good,positive,"['service', 'thought', 'good']",service thought good
+food barely lukewarm must sitting waiting server bring us,negative,"['food', 'barely', 'lukewarm', 'must', 'sitting', 'waiting', 'server', 'bring', 'us']",food barely lukewarm must sitting waiting server bring u
+ryans bar definitely one edinburgh establishment not revisiting,negative,"['ryans', 'bar', 'definitely', 'one', 'edinburgh', 'establishment', 'not', 'revisiting']",ryans bar definitely one edinburgh establishment not revisiting
+nicest chinese restaurant,positive,"['nicest', 'chinese', 'restaurant']",nicest chinese restaurant
+overall like food service,positive,"['overall', 'like', 'food', 'service']",overall like food service
+also serve indian naan bread hummus spicy pine nut sauce world,positive,"['also', 'serve', 'indian', 'naan', 'bread', 'hummus', 'spicy', 'pine', 'nut', 'sauce', 'world']",also serve indian naan bread hummus spicy pine nut sauce world
+probably never coming back would not recommend,negative,"['probably', 'never', 'coming', 'back', 'would', 'not', 'recommend']",probably never coming back would not recommend
+friends pasta also bad barely touched,negative,"['friends', 'pasta', 'also', 'bad', 'barely', 'touched']",friend pasta also bad barely touched
+try airport experience tasty food speedy friendly service,positive,"['try', 'airport', 'experience', 'tasty', 'food', 'speedy', 'friendly', 'service']",try airport experience tasty food speedy friendly service
+love decor chinese calligraphy wall paper,positive,"['love', 'decor', 'chinese', 'calligraphy', 'wall', 'paper']",love decor chinese calligraphy wall paper
+never anything complain,positive,"['never', 'anything', 'complain']",never anything complain
+restaurant clean family restaurant feel,positive,"['restaurant', 'clean', 'family', 'restaurant', 'feel']",restaurant clean family restaurant feel
+way fried,negative,"['way', 'fried']",way fried
+not sure long stood long enough begin feel awkwardly place,negative,"['not', 'sure', 'long', 'stood', 'long', 'enough', 'begin', 'feel', 'awkwardly', 'place']",not sure long stood long enough begin feel awkwardly place
+opened sandwich impressed not good way,negative,"['opened', 'sandwich', 'impressed', 'not', 'good', 'way']",opened sandwich impressed not good way
+warm feeling service felt like guest special treat,positive,"['warm', 'feeling', 'service', 'felt', 'like', 'guest', 'special', 'treat']",warm feeling service felt like guest special treat
+extensive menu provides lots options breakfast,positive,"['extensive', 'menu', 'provides', 'lots', 'options', 'breakfast']",extensive menu provides lot option breakfast
+always order vegetarian menu dinner wide array options choose,positive,"['always', 'order', 'vegetarian', 'menu', 'dinner', 'wide', 'array', 'options', 'choose']",always order vegetarian menu dinner wide array option choose
+watched prices inflate portions get smaller management attitudes grow rapidly,negative,"['watched', 'prices', 'inflate', 'portions', 'get', 'smaller', 'management', 'attitudes', 'grow', 'rapidly']",watched price inflate portion get smaller management attitude grow rapidly
+wonderful lil tapas ambience made feel warm fuzzy inside,positive,"['wonderful', 'lil', 'tapas', 'ambience', 'made', 'feel', 'warm', 'fuzzy', 'inside']",wonderful lil tapa ambience made feel warm fuzzy inside
+got enjoy seafood salad fabulous vinegrette,positive,"['got', 'enjoy', 'seafood', 'salad', 'fabulous', 'vinegrette']",got enjoy seafood salad fabulous vinegrette
+wontons thin not thick chewy almost melt mouth,positive,"['wontons', 'thin', 'not', 'thick', 'chewy', 'almost', 'melt', 'mouth']",wonton thin not thick chewy almost melt mouth
+level 5 spicy perfect spice not overwhelm soup,positive,"['level', '5', 'spicy', 'perfect', 'spice', 'not', 'overwhelm', 'soup']",level 5 spicy perfect spice not overwhelm soup
+sat right time server get go fantastic,positive,"['sat', 'right', 'time', 'server', 'get', 'go', 'fantastic']",sat right time server get go fantastic
+main thing not enjoy crowd older crowd around mid 30s,negative,"['main', 'thing', 'not', 'enjoy', 'crowd', 'older', 'crowd', 'around', 'mid', '30s']",main thing not enjoy crowd older crowd around mid 30
+side town definitely spot ill hit,positive,"['side', 'town', 'definitely', 'spot', 'ill', 'hit']",side town definitely spot ill hit
+wait 30 minutes get drink longer get 2 arepas,negative,"['wait', '30', 'minutes', 'get', 'drink', 'longer', 'get', '2', 'arepas']",wait 30 minute get drink longer get 2 arepas
+great place eat,positive,"['great', 'place', 'eat']",great place eat
+jalapeno bacon soooo good,positive,"['jalapeno', 'bacon', 'soooo', 'good']",jalapeno bacon soooo good
+service poor nice,negative,"['service', 'poor', 'nice']",service poor nice
+food good service good prices good,positive,"['food', 'good', 'service', 'good', 'prices', 'good']",food good service good price good
+place not clean food oh stale,negative,"['place', 'not', 'clean', 'food', 'oh', 'stale']",place not clean food oh stale
+chicken dishes ok beef like shoe leather,negative,"['chicken', 'dishes', 'ok', 'beef', 'like', 'shoe', 'leather']",chicken dish ok beef like shoe leather
+service beyond bad,negative,"['service', 'beyond', 'bad']",service beyond bad
+happy,positive,['happy'],happy
+tasted like dirt,negative,"['tasted', 'like', 'dirt']",tasted like dirt
+one places phoenix would definately go back,positive,"['one', 'places', 'phoenix', 'would', 'definately', 'go', 'back']",one place phoenix would definately go back
+block amazing,positive,"['block', 'amazing']",block amazing
+close house lowkey nonfancy affordable prices good food,positive,"['close', 'house', 'lowkey', 'nonfancy', 'affordable', 'prices', 'good', 'food']",close house lowkey nonfancy affordable price good food
+hot sour egg flower soups absolutely 5 stars,positive,"['hot', 'sour', 'egg', 'flower', 'soups', 'absolutely', '5', 'stars']",hot sour egg flower soup absolutely 5 star
+sashimi poor quality soggy tasteless,negative,"['sashimi', 'poor', 'quality', 'soggy', 'tasteless']",sashimi poor quality soggy tasteless
+great time family dinner sunday night,positive,"['great', 'time', 'family', 'dinner', 'sunday', 'night']",great time family dinner sunday night
+food not tasty not say real traditional hunan style,negative,"['food', 'not', 'tasty', 'not', 'say', 'real', 'traditional', 'hunan', 'style']",food not tasty not say real traditional hunan style
+bother slow service,negative,"['bother', 'slow', 'service']",bother slow service
+flair bartenders absolutely amazing,positive,"['flair', 'bartenders', 'absolutely', 'amazing']",flair bartender absolutely amazing
+frozen margaritas way sugary taste,negative,"['frozen', 'margaritas', 'way', 'sugary', 'taste']",frozen margarita way sugary taste
+good ordered twice,positive,"['good', 'ordered', 'twice']",good ordered twice
+nutshell 1 restaraunt smells like combination dirty fish market sewer,negative,"['nutshell', '1', 'restaraunt', 'smells', 'like', 'combination', 'dirty', 'fish', 'market', 'sewer']",nutshell 1 restaraunt smell like combination dirty fish market sewer
+girlfriends veal bad,negative,"['girlfriends', 'veal', 'bad']",girlfriend veal bad
+unfortunately not good,negative,"['unfortunately', 'not', 'good']",unfortunately not good
+pretty satifying experience,positive,"['pretty', 'satifying', 'experience']",pretty satifying experience
+join club get awesome offers via email,positive,"['join', 'club', 'get', 'awesome', 'offers', 'via', 'email']",join club get awesome offer via email
+perfect someone likes beer ice cold case even colder,positive,"['perfect', 'someone', 'likes', 'beer', 'ice', 'cold', 'case', 'even', 'colder']",perfect someone like beer ice cold case even colder
+bland flavorless good way describing barely tepid meat,negative,"['bland', 'flavorless', 'good', 'way', 'describing', 'barely', 'tepid', 'meat']",bland flavorless good way describing barely tepid meat
+chains no fan beat place easily,negative,"['chains', 'no', 'fan', 'beat', 'place', 'easily']",chain no fan beat place easily
+nachos must,positive,"['nachos', 'must']",nacho must
+not coming back,negative,"['not', 'coming', 'back']",not coming back
+not many words say place everything pretty well,positive,"['not', 'many', 'words', 'say', 'place', 'everything', 'pretty', 'well']",not many word say place everything pretty well
+staff super nice quick even crazy crowds downtown juries lawyers court staff,positive,"['staff', 'super', 'nice', 'quick', 'even', 'crazy', 'crowds', 'downtown', 'juries', 'lawyers', 'court', 'staff']",staff super nice quick even crazy crowd downtown jury lawyer court staff
+great atmosphere friendly fast service,positive,"['great', 'atmosphere', 'friendly', 'fast', 'service']",great atmosphere friendly fast service
+received pita huge lot meat thumbs,positive,"['received', 'pita', 'huge', 'lot', 'meat', 'thumbs']",received pita huge lot meat thumb
+food arrives meh,negative,"['food', 'arrives', 'meh']",food arrives meh
+paying 785 hot dog fries looks like came kids meal wienerschnitzel not idea good meal,negative,"['paying', '785', 'hot', 'dog', 'fries', 'looks', 'like', 'came', 'kids', 'meal', 'wienerschnitzel', 'not', 'idea', 'good', 'meal']",paying 785 hot dog fry look like came kid meal wienerschnitzel not idea good meal
+classic maine lobster roll fantastic,positive,"['classic', 'maine', 'lobster', 'roll', 'fantastic']",classic maine lobster roll fantastic
+brother law works mall ate day guess sick night,negative,"['brother', 'law', 'works', 'mall', 'ate', 'day', 'guess', 'sick', 'night']",brother law work mall ate day guess sick night
+good going review place twice hereas tribute place tribute event held last night,positive,"['good', 'going', 'review', 'place', 'twice', 'hereas', 'tribute', 'place', 'tribute', 'event', 'held', 'last', 'night']",good going review place twice hereas tribute place tribute event held last night
+chips salsa really good salsa fresh,positive,"['chips', 'salsa', 'really', 'good', 'salsa', 'fresh']",chip salsa really good salsa fresh
+place great,positive,"['place', 'great']",place great
+mediocre food,negative,"['mediocre', 'food']",mediocre food
+get inside impressed place,positive,"['get', 'inside', 'impressed', 'place']",get inside impressed place
+super pissd,negative,"['super', 'pissd']",super pissd
+service super friendly,positive,"['service', 'super', 'friendly']",service super friendly
+sad little vegetables overcooked,negative,"['sad', 'little', 'vegetables', 'overcooked']",sad little vegetable overcooked
+place nice surprise,positive,"['place', 'nice', 'surprise']",place nice surprise
+goldencrispy delicious,positive,"['goldencrispy', 'delicious']",goldencrispy delicious
+high hopes place since burgers cooked charcoal grill unfortunately taste fell flat way flat,negative,"['high', 'hopes', 'place', 'since', 'burgers', 'cooked', 'charcoal', 'grill', 'unfortunately', 'taste', 'fell', 'flat', 'way', 'flat']",high hope place since burger cooked charcoal grill unfortunately taste fell flat way flat
+could eat bruschetta day devine,positive,"['could', 'eat', 'bruschetta', 'day', 'devine']",could eat bruschetta day devine
+not single employee came see ok even needed water refill finally served us food,negative,"['not', 'single', 'employee', 'came', 'see', 'ok', 'even', 'needed', 'water', 'refill', 'finally', 'served', 'us', 'food']",not single employee came see ok even needed water refill finally served u food
+lastly mozzarella sticks best thing ordered,positive,"['lastly', 'mozzarella', 'sticks', 'best', 'thing', 'ordered']",lastly mozzarella stick best thing ordered
+first time ever came amazing experience still tell people awesome duck,positive,"['first', 'time', 'ever', 'came', 'amazing', 'experience', 'still', 'tell', 'people', 'awesome', 'duck']",first time ever came amazing experience still tell people awesome duck
+server negligent needs made us feel unwelcome would not suggest place,negative,"['server', 'negligent', 'needs', 'made', 'us', 'feel', 'unwelcome', 'would', 'not', 'suggest', 'place']",server negligent need made u feel unwelcome would not suggest place
+service terrible though,negative,"['service', 'terrible', 'though']",service terrible though
+place overpriced not consistent boba really overpriced,negative,"['place', 'overpriced', 'not', 'consistent', 'boba', 'really', 'overpriced']",place overpriced not consistent boba really overpriced
+packed,negative,['packed'],packed
+say desserts yummy,positive,"['say', 'desserts', 'yummy']",say dessert yummy
+seasonal fruit fresh white peach puree,positive,"['seasonal', 'fruit', 'fresh', 'white', 'peach', 'puree']",seasonal fruit fresh white peach puree
+kept getting worse worse officially done,negative,"['kept', 'getting', 'worse', 'worse', 'officially', 'done']",kept getting worse worse officially done
+place honestly blown,negative,"['place', 'honestly', 'blown']",place honestly blown
+definitely would not eat,negative,"['definitely', 'would', 'not', 'eat']",definitely would not eat
+not waste money,negative,"['not', 'waste', 'money']",not waste money
+love put food nice plastic containers opposed cramming little paper takeout boxes,positive,"['love', 'put', 'food', 'nice', 'plastic', 'containers', 'opposed', 'cramming', 'little', 'paper', 'takeout', 'boxes']",love put food nice plastic container opposed cramming little paper takeout box
+crêpe delicate thin moist,positive,"['crêpe', 'delicate', 'thin', 'moist']",crêpe delicate thin moist
+awful service,negative,"['awful', 'service']",awful service
+not ever go,negative,"['not', 'ever', 'go']",not ever go
+food quality horrible,negative,"['food', 'quality', 'horrible']",food quality horrible
+price think place would much rather gone,negative,"['price', 'think', 'place', 'would', 'much', 'rather', 'gone']",price think place would much rather gone
+service fair best,negative,"['service', 'fair', 'best']",service fair best
+love sushi found kabuki overpriced overhip underservices,negative,"['love', 'sushi', 'found', 'kabuki', 'overpriced', 'overhip', 'underservices']",love sushi found kabuki overpriced overhip underservices
+favor stay away dish,negative,"['favor', 'stay', 'away', 'dish']",favor stay away dish
+poor service,negative,"['poor', 'service']",poor service
+no one table thought food average worth wait,negative,"['no', 'one', 'table', 'thought', 'food', 'average', 'worth', 'wait']",no one table thought food average worth wait
+best service food ever maria server good friendly made day,positive,"['best', 'service', 'food', 'ever', 'maria', 'server', 'good', 'friendly', 'made', 'day']",best service food ever maria server good friendly made day
+excellent,positive,['excellent'],excellent
+paid bill not tip felt server terrible job,negative,"['paid', 'bill', 'not', 'tip', 'felt', 'server', 'terrible', 'job']",paid bill not tip felt server terrible job
+lunch great experience,positive,"['lunch', 'great', 'experience']",lunch great experience
+never bland food surprised considering article read focused much spices flavor,negative,"['never', 'bland', 'food', 'surprised', 'considering', 'article', 'read', 'focused', 'much', 'spices', 'flavor']",never bland food surprised considering article read focused much spice flavor
+food way overpriced portions fucking small,negative,"['food', 'way', 'overpriced', 'portions', 'fucking', 'small']",food way overpriced portion fucking small
+recently tried caballeros back every week since,positive,"['recently', 'tried', 'caballeros', 'back', 'every', 'week', 'since']",recently tried caballeros back every week since
+40 bucks head really expect better food,negative,"['40', 'bucks', 'head', 'really', 'expect', 'better', 'food']",40 buck head really expect better food
+food came good pace,positive,"['food', 'came', 'good', 'pace']",food came good pace
+ate twice last visit especially enjoyed salmon salad,positive,"['ate', 'twice', 'last', 'visit', 'especially', 'enjoyed', 'salmon', 'salad']",ate twice last visit especially enjoyed salmon salad
+could not believe dirty oysters,negative,"['could', 'not', 'believe', 'dirty', 'oysters']",could not believe dirty oyster
+place deserves no stars,negative,"['place', 'deserves', 'no', 'stars']",place deserves no star
+fact going round 4 stars awesome,positive,"['fact', 'going', 'round', '4', 'stars', 'awesome']",fact going round 4 star awesome
+disbelief dish qualified worst version foods ever tasted,negative,"['disbelief', 'dish', 'qualified', 'worst', 'version', 'foods', 'ever', 'tasted']",disbelief dish qualified worst version food ever tasted
+bad day not low tolerance rude customer service people job nice polite wash dishes otherwise,negative,"['bad', 'day', 'not', 'low', 'tolerance', 'rude', 'customer', 'service', 'people', 'job', 'nice', 'polite', 'wash', 'dishes', 'otherwise']",bad day not low tolerance rude customer service people job nice polite wash dish otherwise
+potatoes great biscuit,positive,"['potatoes', 'great', 'biscuit']",potato great biscuit
+probably would not go,negative,"['probably', 'would', 'not', 'go']",probably would not go
+flavorful perfect amount heat,positive,"['flavorful', 'perfect', 'amount', 'heat']",flavorful perfect amount heat
+price reasonable service great,positive,"['price', 'reasonable', 'service', 'great']",price reasonable service great
+wife hated meal coconut shrimp friends really not enjoy meals either,negative,"['wife', 'hated', 'meal', 'coconut', 'shrimp', 'friends', 'really', 'not', 'enjoy', 'meals', 'either']",wife hated meal coconut shrimp friend really not enjoy meal either
+fella got huevos rancheros not look appealing,negative,"['fella', 'got', 'huevos', 'rancheros', 'not', 'look', 'appealing']",fella got huevos rancheros not look appealing
+went happy hour great list wines,positive,"['went', 'happy', 'hour', 'great', 'list', 'wines']",went happy hour great list wine
+may say buffet pricey think get pay place getting quite lot,positive,"['may', 'say', 'buffet', 'pricey', 'think', 'get', 'pay', 'place', 'getting', 'quite', 'lot']",may say buffet pricey think get pay place getting quite lot
+probably not coming back,negative,"['probably', 'not', 'coming', 'back']",probably not coming back
+worst foodservice,negative,"['worst', 'foodservice']",worst foodservice
+place pretty good nice little vibe restaurant,positive,"['place', 'pretty', 'good', 'nice', 'little', 'vibe', 'restaurant']",place pretty good nice little vibe restaurant
+talk great customer service course back,positive,"['talk', 'great', 'customer', 'service', 'course', 'back']",talk great customer service course back
+hot dishes not hot cold dishes close room tempi watched staff prepare food bare hands no gloveseverything deep fried oil,negative,"['hot', 'dishes', 'not', 'hot', 'cold', 'dishes', 'close', 'room', 'tempi', 'watched', 'staff', 'prepare', 'food', 'bare', 'hands', 'no', 'gloveseverything', 'deep', 'fried', 'oil']",hot dish not hot cold dish close room tempo watched staff prepare food bare hand no gloveseverything deep fried oil
+love fries beans,positive,"['love', 'fries', 'beans']",love fry bean
+always pleasure dealing,positive,"['always', 'pleasure', 'dealing']",always pleasure dealing
+plethora salads sandwiches everything tried gets seal approval,positive,"['plethora', 'salads', 'sandwiches', 'everything', 'tried', 'gets', 'seal', 'approval']",plethora salad sandwich everything tried get seal approval
+place awesome want something light healthy summer,positive,"['place', 'awesome', 'want', 'something', 'light', 'healthy', 'summer']",place awesome want something light healthy summer
+sushi strip place go,positive,"['sushi', 'strip', 'place', 'go']",sushi strip place go
+service great even manager came helped table,positive,"['service', 'great', 'even', 'manager', 'came', 'helped', 'table']",service great even manager came helped table
+feel dining room college cooking course high class dining service slow best,negative,"['feel', 'dining', 'room', 'college', 'cooking', 'course', 'high', 'class', 'dining', 'service', 'slow', 'best']",feel dining room college cooking course high class dining service slow best
+started review two stars editing give one,negative,"['started', 'review', 'two', 'stars', 'editing', 'give', 'one']",started review two star editing give one
+worst sushi ever eat besides costcos,negative,"['worst', 'sushi', 'ever', 'eat', 'besides', 'costcos']",worst sushi ever eat besides costcos
+excellent restaurant highlighted great service unique menu beautiful setting,positive,"['excellent', 'restaurant', 'highlighted', 'great', 'service', 'unique', 'menu', 'beautiful', 'setting']",excellent restaurant highlighted great service unique menu beautiful setting
+boyfriend sat bar completely delightful experience,positive,"['boyfriend', 'sat', 'bar', 'completely', 'delightful', 'experience']",boyfriend sat bar completely delightful experience
+weird vibe owners,negative,"['weird', 'vibe', 'owners']",weird vibe owner
+hardly meat,negative,"['hardly', 'meat']",hardly meat
+better bagels grocery store,negative,"['better', 'bagels', 'grocery', 'store']",better bagel grocery store
+go place gyros,positive,"['go', 'place', 'gyros']",go place gyro
+love ownerchef one authentic japanese cool dude,positive,"['love', 'ownerchef', 'one', 'authentic', 'japanese', 'cool', 'dude']",love ownerchef one authentic japanese cool dude
+burgers not good pizza used amazing doughy flavorless,negative,"['burgers', 'not', 'good', 'pizza', 'used', 'amazing', 'doughy', 'flavorless']",burger not good pizza used amazing doughy flavorless
+found six inch long piece wire salsa,negative,"['found', 'six', 'inch', 'long', 'piece', 'wire', 'salsa']",found six inch long piece wire salsa
+service terrible food mediocre,negative,"['service', 'terrible', 'food', 'mediocre']",service terrible food mediocre
+definately enjoyed,positive,"['definately', 'enjoyed']",definately enjoyed
+ordered albondigas soup warm tasted like tomato soup frozen meatballs,negative,"['ordered', 'albondigas', 'soup', 'warm', 'tasted', 'like', 'tomato', 'soup', 'frozen', 'meatballs']",ordered albondigas soup warm tasted like tomato soup frozen meatball
+three different occasions asked well done medium well three times got bloodiest piece meat plate,negative,"['three', 'different', 'occasions', 'asked', 'well', 'done', 'medium', 'well', 'three', 'times', 'got', 'bloodiest', 'piece', 'meat', 'plate']",three different occasion asked well done medium well three time got bloodiest piece meat plate
+two bites refused eat anymore,negative,"['two', 'bites', 'refused', 'eat', 'anymore']",two bite refused eat anymore
+service extremely slow,negative,"['service', 'extremely', 'slow']",service extremely slow
+20 minutes wait got table,negative,"['20', 'minutes', 'wait', 'got', 'table']",20 minute wait got table
+seriously killer hot chai latte,positive,"['seriously', 'killer', 'hot', 'chai', 'latte']",seriously killer hot chai latte
+no allergy warnings menu waitress absolutely no clue meals not contain peanuts,negative,"['no', 'allergy', 'warnings', 'menu', 'waitress', 'absolutely', 'no', 'clue', 'meals', 'not', 'contain', 'peanuts']",no allergy warning menu waitress absolutely no clue meal not contain peanut
+boyfriend tried mediterranean chicken salad fell love,positive,"['boyfriend', 'tried', 'mediterranean', 'chicken', 'salad', 'fell', 'love']",boyfriend tried mediterranean chicken salad fell love
+rotating beers tap also highlight place,positive,"['rotating', 'beers', 'tap', 'also', 'highlight', 'place']",rotating beer tap also highlight place
+pricing bit concern mellow mushroom,negative,"['pricing', 'bit', 'concern', 'mellow', 'mushroom']",pricing bit concern mellow mushroom
+worst thai ever,negative,"['worst', 'thai', 'ever']",worst thai ever
+stay vegas must get breakfast least,positive,"['stay', 'vegas', 'must', 'get', 'breakfast', 'least']",stay vega must get breakfast least
+want first say server great perfect service,positive,"['want', 'first', 'say', 'server', 'great', 'perfect', 'service']",want first say server great perfect service
+pizza selections good,positive,"['pizza', 'selections', 'good']",pizza selection good
+strawberry tea good,positive,"['strawberry', 'tea', 'good']",strawberry tea good
+highly unprofessional rude loyal patron,negative,"['highly', 'unprofessional', 'rude', 'loyal', 'patron']",highly unprofessional rude loyal patron
+overall great experience,positive,"['overall', 'great', 'experience']",overall great experience
+spend money elsewhere,negative,"['spend', 'money', 'elsewhere']",spend money elsewhere
+regular toasted bread equally satisfying occasional pats butter mmmm,positive,"['regular', 'toasted', 'bread', 'equally', 'satisfying', 'occasional', 'pats', 'butter', 'mmmm']",regular toasted bread equally satisfying occasional pat butter mmmm
+buffet bellagio far anticipated,negative,"['buffet', 'bellagio', 'far', 'anticipated']",buffet bellagio far anticipated
+drinks weak people,negative,"['drinks', 'weak', 'people']",drink weak people
+order not correct,negative,"['order', 'not', 'correct']",order not correct
+also feel like chips bought not made house,negative,"['also', 'feel', 'like', 'chips', 'bought', 'not', 'made', 'house']",also feel like chip bought not made house
+disappointing dinner went elsewhere dessert,negative,"['disappointing', 'dinner', 'went', 'elsewhere', 'dessert']",disappointing dinner went elsewhere dessert
+chips sals amazing,positive,"['chips', 'sals', 'amazing']",chip sals amazing
+not returning,negative,"['not', 'returning']",not returning
+new fav vegas buffet spot,positive,"['new', 'fav', 'vegas', 'buffet', 'spot']",new fav vega buffet spot
+seriously cannot believe owner many unexperienced employees running around like chickens heads cut,negative,"['seriously', 'can', 'not', 'believe', 'owner', 'many', 'unexperienced', 'employees', 'running', 'around', 'like', 'chickens', 'heads', 'cut']",seriously can not believe owner many unexperienced employee running around like chicken head cut
+sad,negative,['sad'],sad
+felt insulted disrespected could talk judge another human like,negative,"['felt', 'insulted', 'disrespected', 'could', 'talk', 'judge', 'another', 'human', 'like']",felt insulted disrespected could talk judge another human like
+call steakhouse cannot properly cook steak not understand,negative,"['call', 'steakhouse', 'can', 'not', 'properly', 'cook', 'steak', 'not', 'understand']",call steakhouse can not properly cook steak not understand
+not impressed concept food,negative,"['not', 'impressed', 'concept', 'food']",not impressed concept food
+thing not crazy guacamole not like puréed,negative,"['thing', 'not', 'crazy', 'guacamole', 'not', 'like', 'puréed']",thing not crazy guacamole not like puréed
+really nothing postinos hope experience better,negative,"['really', 'nothing', 'postinos', 'hope', 'experience', 'better']",really nothing postinos hope experience better
+got food poisoning buffet,negative,"['got', 'food', 'poisoning', 'buffet']",got food poisoning buffet
+brought fresh batch fries thinking yay something warm no,negative,"['brought', 'fresh', 'batch', 'fries', 'thinking', 'yay', 'something', 'warm', 'no']",brought fresh batch fry thinking yay something warm no
+hilarious yummy christmas eve dinner remember biggest fail entire trip us,negative,"['hilarious', 'yummy', 'christmas', 'eve', 'dinner', 'remember', 'biggest', 'fail', 'entire', 'trip', 'us']",hilarious yummy christmas eve dinner remember biggest fail entire trip u
+needless say not going back anytime soon,negative,"['needless', 'say', 'not', 'going', 'back', 'anytime', 'soon']",needless say not going back anytime soon
+place disgusting,negative,"['place', 'disgusting']",place disgusting
+every time eat see caring teamwork professional degree,positive,"['every', 'time', 'eat', 'see', 'caring', 'teamwork', 'professional', 'degree']",every time eat see caring teamwork professional degree
+ri style calamari joke,negative,"['ri', 'style', 'calamari', 'joke']",ri style calamari joke
+however much garlic fondue barely edible,negative,"['however', 'much', 'garlic', 'fondue', 'barely', 'edible']",however much garlic fondue barely edible
+could barely stomach meal not complain business lunch,negative,"['could', 'barely', 'stomach', 'meal', 'not', 'complain', 'business', 'lunch']",could barely stomach meal not complain business lunch
+bad lost heart finish,negative,"['bad', 'lost', 'heart', 'finish']",bad lost heart finish
+also took forever bring us check asked,negative,"['also', 'took', 'forever', 'bring', 'us', 'check', 'asked']",also took forever bring u check asked
+not ones make scene restaurants not get itdefinitely lost love one,negative,"['not', 'ones', 'make', 'scene', 'restaurants', 'not', 'get', 'itdefinitely', 'lost', 'love', 'one']",not one make scene restaurant not get itdefinitely lost love one
+disappointing experience,negative,"['disappointing', 'experience']",disappointing experience
+food par dennys say not good,negative,"['food', 'par', 'dennys', 'say', 'not', 'good']",food par dennys say not good
+want wait mediocre food downright terrible service place,negative,"['want', 'wait', 'mediocre', 'food', 'downright', 'terrible', 'service', 'place']",want wait mediocre food downright terrible service place
+waaaaaayyyyyyyyyy rated saying,negative,"['waaaaaayyyyyyyyyy', 'rated', 'saying']",waaaaaayyyyyyyyyy rated saying
+not going back,negative,"['not', 'going', 'back']",not going back
+place fairly clean food simply not worth,negative,"['place', 'fairly', 'clean', 'food', 'simply', 'not', 'worth']",place fairly clean food simply not worth
+place lacked style,negative,"['place', 'lacked', 'style']",place lacked style
+sangria half glass wine full 12 ridiculous,negative,"['sangria', 'half', 'glass', 'wine', 'full', '12', 'ridiculous']",sangria half glass wine full 12 ridiculous
+not bother coming,negative,"['not', 'bother', 'coming']",not bother coming
+meat pretty dry sliced brisket pulled pork,negative,"['meat', 'pretty', 'dry', 'sliced', 'brisket', 'pulled', 'pork']",meat pretty dry sliced brisket pulled pork
+building seems pretty neat bathroom pretty trippy would not eat,negative,"['building', 'seems', 'pretty', 'neat', 'bathroom', 'pretty', 'trippy', 'would', 'not', 'eat']",building seems pretty neat bathroom pretty trippy would not eat
+equally awful,negative,"['equally', 'awful']",equally awful
+probably not hurry go back,negative,"['probably', 'not', 'hurry', 'go', 'back']",probably not hurry go back
+slow seating even reservation,negative,"['slow', 'seating', 'even', 'reservation']",slow seating even reservation
+not good stretch imagination,negative,"['not', 'good', 'stretch', 'imagination']",not good stretch imagination
+cashew cream sauce bland vegetables undercooked,negative,"['cashew', 'cream', 'sauce', 'bland', 'vegetables', 'undercooked']",cashew cream sauce bland vegetable undercooked
+chipolte ranch dipping sause tasteless seemed thin watered no heat,negative,"['chipolte', 'ranch', 'dipping', 'sause', 'tasteless', 'seemed', 'thin', 'watered', 'no', 'heat']",chipolte ranch dipping sause tasteless seemed thin watered no heat
+bit sweet not really spicy enough lacked flavor,negative,"['bit', 'sweet', 'not', 'really', 'spicy', 'enough', 'lacked', 'flavor']",bit sweet not really spicy enough lacked flavor
+disappointed,negative,['disappointed'],disappointed
+place horrible way overpriced,negative,"['place', 'horrible', 'way', 'overpriced']",place horrible way overpriced
+maybe vegetarian fare twice thought average best,negative,"['maybe', 'vegetarian', 'fare', 'twice', 'thought', 'average', 'best']",maybe vegetarian fare twice thought average best
+not busy know,negative,"['not', 'busy', 'know']",not busy know
+tables outside also dirty lot time workers not always friendly helpful menu,negative,"['tables', 'outside', 'also', 'dirty', 'lot', 'time', 'workers', 'not', 'always', 'friendly', 'helpful', 'menu']",table outside also dirty lot time worker not always friendly helpful menu
+ambiance not feel like buffet setting douchey indoor garden tea biscuits,negative,"['ambiance', 'not', 'feel', 'like', 'buffet', 'setting', 'douchey', 'indoor', 'garden', 'tea', 'biscuits']",ambiance not feel like buffet setting douchey indoor garden tea biscuit
+con spotty service,negative,"['con', 'spotty', 'service']",con spotty service
+fries not hot neither burger,negative,"['fries', 'not', 'hot', 'neither', 'burger']",fry not hot neither burger
+came back cold,negative,"['came', 'back', 'cold']",came back cold
+food came disappointment ensued,negative,"['food', 'came', 'disappointment', 'ensued']",food came disappointment ensued
+real disappointment waiter,negative,"['real', 'disappointment', 'waiter']",real disappointment waiter
+husband said rude not even apologize bad food anything,negative,"['husband', 'said', 'rude', 'not', 'even', 'apologize', 'bad', 'food', 'anything']",husband said rude not even apologize bad food anything
+reason eat would fill night binge drinking get carbs stomach,negative,"['reason', 'eat', 'would', 'fill', 'night', 'binge', 'drinking', 'get', 'carbs', 'stomach']",reason eat would fill night binge drinking get carbs stomach
+insults profound deuchebaggery go outside smoke break serving solidify,negative,"['insults', 'profound', 'deuchebaggery', 'go', 'outside', 'smoke', 'break', 'serving', 'solidify']",insult profound deuchebaggery go outside smoke break serving solidify
+someone orders two tacos not think may part customer service ask combo ala cart,negative,"['someone', 'orders', 'two', 'tacos', 'not', 'think', 'may', 'part', 'customer', 'service', 'ask', 'combo', 'ala', 'cart']",someone order two taco not think may part customer service ask combo ala cart
+quite disappointed although blame needs placed door,negative,"['quite', 'disappointed', 'although', 'blame', 'needs', 'placed', 'door']",quite disappointed although blame need placed door
+rave reviews could not wait eat herewhat disappointment,negative,"['rave', 'reviews', 'could', 'not', 'wait', 'eat', 'herewhat', 'disappointment']",rave review could not wait eat herewhat disappointment
+del taco pretty nasty avoided possible,negative,"['del', 'taco', 'pretty', 'nasty', 'avoided', 'possible']",del taco pretty nasty avoided possible
+not hard make decent hamburger,negative,"['not', 'hard', 'make', 'decent', 'hamburger']",not hard make decent hamburger
+hell no go back,negative,"['hell', 'no', 'go', 'back']",hell no go back
+gotten much better service pizza place next door services received restaurant,negative,"['gotten', 'much', 'better', 'service', 'pizza', 'place', 'next', 'door', 'services', 'received', 'restaurant']",gotten much better service pizza place next door service received restaurant
+not know big deal place not back yaall,negative,"['not', 'know', 'big', 'deal', 'place', 'not', 'back', 'yaall']",not know big deal place not back yaall
+immediately said wanted talk manager not want talk guy shots fireball behind bar,negative,"['immediately', 'said', 'wanted', 'talk', 'manager', 'not', 'want', 'talk', 'guy', 'shots', 'fireball', 'behind', 'bar']",immediately said wanted talk manager not want talk guy shot fireball behind bar
+ambiance not much better,negative,"['ambiance', 'not', 'much', 'better']",ambiance not much better
+unfortunately set us disapppointment entrees,negative,"['unfortunately', 'set', 'us', 'disapppointment', 'entrees']",unfortunately set u disapppointment entree
+food not good,negative,"['food', 'not', 'good']",food not good
+servers suck wait correction server heimer sucked,negative,"['servers', 'suck', 'wait', 'correction', 'server', 'heimer', 'sucked']",server suck wait correction server heimer sucked
+happened next prettyoff putting,negative,"['happened', 'next', 'prettyoff', 'putting']",happened next prettyoff putting
+bad know family owned really wanted like place,negative,"['bad', 'know', 'family', 'owned', 'really', 'wanted', 'like', 'place']",bad know family owned really wanted like place
+overpriced getting,negative,"['overpriced', 'getting']",overpriced getting
+vomited bathroom mid lunch,negative,"['vomited', 'bathroom', 'mid', 'lunch']",vomited bathroom mid lunch
+kept looking time soon become 35 minutes yet still no food,negative,"['kept', 'looking', 'time', 'soon', 'become', '35', 'minutes', 'yet', 'still', 'no', 'food']",kept looking time soon become 35 minute yet still no food
+places eat no circumstances would ever return tops list,negative,"['places', 'eat', 'no', 'circumstances', 'would', 'ever', 'return', 'tops', 'list']",place eat no circumstance would ever return top list
+started tuna sashimi brownish color obviously not fresh,negative,"['started', 'tuna', 'sashimi', 'brownish', 'color', 'obviously', 'not', 'fresh']",started tuna sashimi brownish color obviously not fresh
+food average,negative,"['food', 'average']",food average
+sure beat nachos movies would expect little bit coming restaurant,negative,"['sure', 'beat', 'nachos', 'movies', 'would', 'expect', 'little', 'bit', 'coming', 'restaurant']",sure beat nacho movie would expect little bit coming restaurant
+ha long bay bit flop,negative,"['ha', 'long', 'bay', 'bit', 'flop']",ha long bay bit flop
+problem charge 1199 sandwich no bigger subway sub offers better amount vegetables,negative,"['problem', 'charge', '1199', 'sandwich', 'no', 'bigger', 'subway', 'sub', 'offers', 'better', 'amount', 'vegetables']",problem charge 1199 sandwich no bigger subway sub offer better amount vegetable
+shrimp unwrapped live 12 mile brushfire literally ice cold,negative,"['shrimp', 'unwrapped', 'live', '12', 'mile', 'brushfire', 'literally', 'ice', 'cold']",shrimp unwrapped live 12 mile brushfire literally ice cold
+lacked flavor seemed undercooked dry,negative,"['lacked', 'flavor', 'seemed', 'undercooked', 'dry']",lacked flavor seemed undercooked dry
+really impressive place not closed,negative,"['really', 'impressive', 'place', 'not', 'closed']",really impressive place not closed
+would avoid place staying mirage,negative,"['would', 'avoid', 'place', 'staying', 'mirage']",would avoid place staying mirage
+refried beans came meal dried crusty food bland,negative,"['refried', 'beans', 'came', 'meal', 'dried', 'crusty', 'food', 'bland']",refried bean came meal dried crusty food bland
+spend money time place else,negative,"['spend', 'money', 'time', 'place', 'else']",spend money time place else
+lady table next us found live green caterpillar salad,negative,"['lady', 'table', 'next', 'us', 'found', 'live', 'green', 'caterpillar', 'salad']",lady table next u found live green caterpillar salad
+presentation food awful,negative,"['presentation', 'food', 'awful']",presentation food awful
+cannot tell disappointed,negative,"['can', 'not', 'tell', 'disappointed']",can not tell disappointed
+think food flavor texture lacking,negative,"['think', 'food', 'flavor', 'texture', 'lacking']",think food flavor texture lacking
+appetite instantly gone,negative,"['appetite', 'instantly', 'gone']",appetite instantly gone
+overall not impressed would not go back,negative,"['overall', 'not', 'impressed', 'would', 'not', 'go', 'back']",overall not impressed would not go back
+whole experience underwhelming think well go ninja sushi next time,negative,"['whole', 'experience', 'underwhelming', 'think', 'well', 'go', 'ninja', 'sushi', 'next', 'time']",whole experience underwhelming think well go ninja sushi next time
+not wasted enough life poured salt wound drawing time took bring check,negative,"['not', 'wasted', 'enough', 'life', 'poured', 'salt', 'wound', 'drawing', 'time', 'took', 'bring', 'check']",not wasted enough life poured salt wound drawing time took bring check

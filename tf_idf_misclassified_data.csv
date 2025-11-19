@@ -1,0 +1,35 @@
+review,actual_sentiment,predicted_sentiment,misclassification_reason
+not expect good,1,0,Possible Negation Issue
+went bachi burger friends recommendation not disappointed,1,0,Possible Negation Issue
+deal included 5 tastings 2 drinks jeff went beyond expected,1,0,Unclear
+back,1,0,Too Short for Meaningful Classification
+not gone go,1,0,Possible Negation Issue
+love sushi found kabuki overpriced overhip underservices,0,1,Unclear
+not many words say place everything pretty well,1,0,Possible Negation Issue
+could not ask satisfying meal,1,0,Possible Negation Issue
+first time might last,0,1,Too Short for Meaningful Classification
+one nice thing added gratuity bill since party larger 6 8 not expect tip,1,0,Possible Negation Issue
+things went wrong burned saganaki,0,1,Unclear
+food gooodd,1,0,Too Short for Meaningful Classification
+omg felt like never eaten thai food dish,1,0,Possible Negation Issue
+service stinks,0,1,Too Short for Meaningful Classification
+burgers not good pizza used amazing doughy flavorless,0,1,Possible Negation Issue
+mistake,0,1,Too Short for Meaningful Classification
+everyone treated equally special,1,0,Too Short for Meaningful Classification
+nachos must,1,0,Too Short for Meaningful Classification
+no complaints,1,0,Possible Negation Issue
+love place hits spot want something healthy not lacking quantity flavor,1,0,Possible Negation Issue
+def coming back bowl next time,1,0,Unclear
+last night second time dining happy decided go back,1,0,Unclear
+boyfriend came first time recent trip vegas could not pleased quality food service,1,0,Possible Negation Issue
+much better ayce sushi place went vegas,1,0,Unclear
+weird vibe owners,0,1,Too Short for Meaningful Classification
+packed,0,1,Too Short for Meaningful Classification
+vegetables fresh sauce feels like authentic thai,1,0,Unclear
+insults profound deuchebaggery go outside smoke break serving solidify,0,1,Unclear
+worth drive,1,0,Too Short for Meaningful Classification
+go far many places never seen restaurant serves 1 egg breakfast especially 400,0,1,Possible Negation Issue
+service poor nice,0,1,Too Short for Meaningful Classification
+summarize food incredible nay transcendant nothing brings joy quite like memory pneumatic condiment dispenser,1,0,Unclear
+ground right next table large smeared beensteppedinandtrackedeverywhere pile green bird poop,0,1,Unclear
+highquality chicken chicken caesar salad,1,0,Unclear
